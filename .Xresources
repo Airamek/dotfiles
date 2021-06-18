@@ -1,0 +1,49 @@
+Xft.autohint: 1
+Xft.antialias: 1
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+URxvt.intensityStyles:	false
+URxvt.depth:		32
+URxvt.font: 		xft:monospace:size=11
+URxvt.scrollBar:	false
+
+!! Extensions
+URxvt.perl-ext-common:	font-size
+URxvt.colorUL:		#4682B4
+!! resize-font
+URxvt.keysym.C-Up:     font-size:increase
+URxvt.keysym.C-Down:   font-size:decrease
+
+!! colors by Hibariu:
+*.color0: #ffffff
+*.color8: #6b60c9
+
+*.color1: #e57188
+*.color9: #f19097
+
+*.color2: #fab1ab
+*.color10: #ffd6d0
+
+*.color3: #a0bfea
+*.color11: #d0f2fe
+
+*.color4: #8fa4f5
+*.color12: #b9e0ff
+
+*.color5: #614ab2
+*.color13: #787de5
+
+*.color6: #5b329d
+*.color14: #6b60c9
+
+*.color7: #9421ff
+*.color15: #000000
+
+*.background: [80]#120523
+*.foreground: #787de5
+*.cursorColor: #ff5300
+
+
