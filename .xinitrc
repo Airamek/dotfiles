@@ -11,6 +11,6 @@ export UXVRT_PERL_LIB=$HOME/.urxvt/ext
 
 xrdb -merge .Xresources
 
-start-pulseaudio-x11 &
+picom & start-pulseaudio-x11 &
 exec openbox-session
 

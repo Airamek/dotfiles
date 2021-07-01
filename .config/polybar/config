@@ -1,0 +1,55 @@
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/polybar/polybar
+;
+;   The README contains a lot of information
+;
+;==========================================================
+
+[colors]
+background = ${xrdb:background:#222}
+foreground = ${xrdb:color7:#222}
+primary = #ffb52a
+secondary = #e60053
+alert = #bd2c40
+
+; ---------------------------------------------------------------------
+; [BARS]
+
+[bar/main-openbox]
+width = 100%
+height = 30
+bottom = true
+padding = 2
+module-margin = 1
+
+font-0 = "Noto Sans:size=12"
+
+modules-right = battery date
+
+; -------------------------------------------------------------------
+; [MODULES]
+
+[module/date]
+type = internal/date
+interval = 1.0
+time = %H:%M
+label = %time%
+label-font = 1
+
+[module/battery]
+type = internal/battery
+
+battery = BAT0
+adapter = ADP1
+
+poll-interval = 5
