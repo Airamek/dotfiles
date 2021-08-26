@@ -1,0 +1,6 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.ppy.sh]
+osu.ppy.sh           ".ppy.sh"            "/"          1628179705    0 XSRF-TOKEN           5    aTBSvg6MYQlKCjpEOHQGGuOiZOCEK1GFW0LXerKu
+osu.ppy.sh           ".ppy.sh"            "/"          1628179705    0 osu_session          7    eyJpdiI6ImJhM0NnTUh1ZFJCcDJHWXJ3eWFIcFE9PSIsInZhbHVlIjoiUVhkMkhNeGVvczBNc0NhajdhR1dsRFAzODhnUWcyaVdtUFRXL0R6cGM0RndQT0ozM3FMRmpsdXVsZlE1WXlVem8reDZZeHFncCtTMUlXbUlLVm44V3BVdFo2Q2oxcG1pQ1NVVHRiUTFOM1RJdE9UdE42UEpiWk5zdHVycnczRmVyaUZsRnJnUytCR2xhQ21UUHV1UkxBPT0iLCJtYWMiOiJmYjRjZjQyOTBhZmM4OTEzZDE3ODJjYzg5Zjg3MTA3NTcwNWZlOTE5NzE3NGU4ZTU3Nzc1ZWMwMmIwMDgwZWQwIn0%3D

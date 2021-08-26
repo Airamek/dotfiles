@@ -1,0 +1,29 @@
+[FileDialogSize]
+DisplayPort-0 DisplayPort-1 Height 1920x1080=600
+DisplayPort-0 DisplayPort-1 Width 1920x1080=884
+
+[KFileDialog Settings]
+Recent Files[$e]=3IayTvw.jpeg,file:$HOME/stuff/bg/ismail-inceoglu-chaos-invoked.jpg,file:$HOME/stuff/bg/alone.jpg,file:$HOME/stuff/bg/fantasy-art-colorful-hd.jpg,file:$HOME/stuff/bg/wallhaven-night.jpg,file:$HOME/stuff/bg/line_glitter_glare_dark_95089_1920x1080.jpg,file:$HOME/stuff/bg/universe_galaxy_multicolored_125246_1920x1080.jpg,file:$HOME/Downloads/dahUly9.jpeg,file:$HOME/Downloads/3IayTvw.jpeg
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/stuff/bg/,file:$HOME/stuff/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+DisplayPort-0 DisplayPort-1 Height 1280x1024=444
+DisplayPort-0 DisplayPort-1 Height 1920x1080=453
+DisplayPort-0 DisplayPort-1 Width 1280x1024=373
+DisplayPort-0 DisplayPort-1 Width 1920x1080=410
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=32
+
+[ScreenConnectors]
+0=DisplayPort-0
+1=DisplayPort-1
+2=HDMI-A-0
+3=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js

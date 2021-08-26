@@ -1,0 +1,9 @@
+game:
+  args: 'STAGING_AUDIO_DURATION=10000 '
+  exe: drive_c/osu/osu!.exe
+  prefix: /home/airamek/Games/osu
+system:
+  env:
+    PULSE_LATENCY_MSEC: '20'
+wine:
+  version: lutris-5.7-11-x86_64

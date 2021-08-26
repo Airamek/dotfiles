@@ -1,0 +1,42 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+DisplayPort-0 DisplayPort-1 Height 1920x1080=700
+DisplayPort-0 DisplayPort-1 Width 1920x1080=1020
+DisplayPort-0 DisplayPort-1 Window-Maximized 1280x1024=true
+DisplayPort-0 DisplayPort-1 XPosition 1280x1024=256
+DisplayPort-0 DisplayPort-1 XPosition 1920x1080=1280
+DisplayPort-0 DisplayPort-1 YPosition 1280x1024=348
+DisplayPort-0 DisplayPort-1 YPosition 1920x1080=344
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQAAAAO6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/UGI1w52.jpeg
+File10[$e]=/media/Win10/Users/Airamek/Pictures/12334.PNG
+File2[$e]=$HOME/Pictures/2021-08-02_20-42.png
+File3[$e]=$HOME/Downloads/3NZ0huk.jpeg
+File4[$e]=/media/Win10/Users/Airamek/Pictures/mirkigazsagai.png
+File5[$e]=/media/Win10/Users/Airamek/Pictures/mother.PNG
+File6[$e]=/media/Win10/Users/Airamek/Pictures/nosimpseptember.PNG
+File7[$e]=/media/Win10/Users/Airamek/Pictures/dcfacecam.png
+File8[$e]=/media/Win10/Users/Airamek/Pictures/20200821_110242.jpg
+File9[$e]=/media/Win10/Users/Airamek/Pictures/20200820_184418.jpg
+Name1[$e]=UGI1w52.jpeg
+Name10[$e]=12334.PNG
+Name2[$e]=2021-08-02_20-42.png
+Name3[$e]=3NZ0huk.jpeg
+Name4[$e]=mirkigazsagai.png
+Name5[$e]=mother.PNG
+Name6[$e]=nosimpseptember.PNG
+Name7[$e]=dcfacecam.png
+Name8[$e]=20200821_110242.jpg
+Name9[$e]=20200820_184418.jpg
+
+[SideBar]
+SideBarSplitterSizes=242,775

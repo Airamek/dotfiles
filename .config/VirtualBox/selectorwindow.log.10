@@ -1,0 +1,19 @@
+00:00:00.532776 VirtualBox GUI VM Selector Window 6.1.20 r143896 linux.amd64 (Apr 30 2021 15:24:58) release log
+00:00:00.532777 Log opened 2021-07-31T20:00:02.130273000Z
+00:00:00.532778 Build Type: release
+00:00:00.532782 OS Product: Linux
+00:00:00.532783 OS Release: 5.12.19_1
+00:00:00.532783 OS Version: #1 SMP 1626835473
+00:00:00.532804 DMI Product Name: System Product Name
+00:00:00.532810 DMI Product Version: System Version
+00:00:00.532817 Firmware type: UEFI
+00:00:00.532897 Secure Boot: Disabled
+00:00:00.532934 Host RAM: 15984MB (15.6GB) total, 13546MB (13.2GB) available
+00:00:00.532939 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.532939 Process ID: 4377
+00:00:00.532940 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.532962 Qt version: 5.15.2
+00:00:00.545877 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.839564 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1280x0 x 1920x1048
+00:00:00.841905 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x28 x 1280x1024
+00:00:00.917727 GUI: UIMediumEnumerator: Medium-enumeration finished!

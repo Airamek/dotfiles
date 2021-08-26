@@ -1,0 +1,26 @@
+[1]
+Active Tab Index=1
+Tab Count=4
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00-file:///media/MindenMas/stuff/slack/dev/runit\x00\x00\x00\x00\x01\x00\x00\x00Ofile:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid.txz\x00\x00\x00\x01\x00\x00\x00Ofile:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid.txz\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00Efile:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/init-x86\x00\x00\x00\x00\x01\x00\x00\x00gfile:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/init-x86/runit_scripts-0.2-i486-reraid.txz\x00\x00\x00\x01\x00\x00\x00gfile:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/init-x86/runit_scripts-0.2-i486-reraid.txz\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00Zfile:///media/MindenMas/Let%C3%B6lt%C3%A9sek/slackware-14.2-iso/slackware-14.2-install-dvd\x00\x00\x00\x00\x01\x00\x00\x00afile:///media/MindenMas/Let%C3%B6lt%C3%A9sek/slackware-14.2-iso/slackware-14.2-install-dvd/[BOOT]\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 3=\x00\x00\x00\x02\x00\x00\x00\x00\x17file:///media/MindenMas\x00\x00\x00\x00\x01\x00\x00\x00\x1ffile:///media/MindenMas/3uTools\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 4=\x00\x00\x00\x02\x00\x00\x00\x00Mfile:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/essentialsv2-x86\x00\x00\x00\x00\x01\x00\x00\x00mfile:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/essentialsv2-x86/NetworkManager-1.2.2-i586-2.txz\x00\x00\x00\x01\x00\x00\x00mfile:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/essentialsv2-x86/NetworkManager-1.2.2-i586-2.txz\x00\x00\x00\x00\x00\x00\x00S\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+DisplayPort-0 DisplayPort-1 Height 1280x1024=724
+DisplayPort-0 DisplayPort-1 Height 1920x1080=724
+DisplayPort-0 DisplayPort-1 Width 1280x1024=1005
+DisplayPort-0 DisplayPort-1 Width 1920x1080=1005
+DisplayPort-0 DisplayPort-1 XPosition 1280x1024=185
+DisplayPort-0 DisplayPort-1 XPosition 1920x1080=1384
+DisplayPort-0 DisplayPort-1 YPosition 1280x1024=257
+DisplayPort-0 DisplayPort-1 YPosition 1920x1080=124
+DisplayPort-0 XPosition 1920x1080=54
+DisplayPort-0 YPosition 1920x1080=179
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAB5/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAB5wAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAD7QAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAD7QAAAJEBAAADAAADNAAAAecAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled

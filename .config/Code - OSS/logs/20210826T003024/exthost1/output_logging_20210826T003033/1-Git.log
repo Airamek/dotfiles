@@ -1,0 +1,39 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /media/MindenMas/stuff/slack/ReRAID
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /media/MindenMas/stuff/slack/ReRAID/setupscripts/reraid-stage2.sh
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :setupscripts/reraid-stage2.sh
+> git ls-files --stage -- /media/MindenMas/stuff/slack/ReRAID/setupscripts/reraid-stage2.sh
+> git cat-file -s 618f47bbb93057b22d4800c602adb699547e8656
+> git check-ignore -v -z --stdin
+> git show --textconv :setupscripts/reraid-stage1.sh
+> git ls-files --stage -- /media/MindenMas/stuff/slack/ReRAID/setupscripts/reraid-stage1.sh
+> git cat-file -s a86932c84b3a0a48c2fce013472f481a22db900d
+> git show --textconv :setupscripts/reraid-stage2.sh
+> git ls-files --stage -- /media/MindenMas/stuff/slack/ReRAID/setupscripts/reraid-stage2.sh
+> git cat-file -s 618f47bbb93057b22d4800c602adb699547e8656
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

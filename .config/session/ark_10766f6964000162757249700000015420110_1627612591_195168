@@ -1,0 +1,13 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWindow
+DisplayPort-0 DisplayPort-1 Height 1920x1080=314
+DisplayPort-0 DisplayPort-1 Width 1920x1080=404
+DisplayPort-0 DisplayPort-1 XPosition 1920x1080=916
+DisplayPort-0 DisplayPort-1 YPosition 1920x1080=54
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAZQAAADuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled

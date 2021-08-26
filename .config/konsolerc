@@ -1,0 +1,13 @@
+[Desktop Entry]
+DefaultProfile=
+
+[MainWindow]
+DisplayPort-0 DisplayPort-1 Height 1920x1080=413
+DisplayPort-0 DisplayPort-1 Width 1920x1080=814
+DisplayPort-0 DisplayPort-1 XPosition 1280x1024=413
+DisplayPort-0 DisplayPort-1 XPosition 1920x1080=1625
+DisplayPort-0 DisplayPort-1 YPosition 1280x1024=65
+DisplayPort-0 DisplayPort-1 YPosition 1920x1080=285
+State=AAAA/wAAAAD9AAAAAAAAAcUAAAAYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAABnf////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled

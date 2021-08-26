@@ -1,0 +1,575 @@
+17:33:39.724: CPU Name: AMD Ryzen 5 3600 6-Core Processor
+17:33:39.724: CPU Speed: 3691.385MHz
+17:33:39.725: Physical Cores: 6, Logical Cores: 12
+17:33:39.725: Physical Memory: 15984MB Total, 8423MB Free
+17:33:39.725: Kernel Version: Linux 5.12.14_1
+17:33:39.725: Distribution: "void" Unknown
+17:33:39.725: Session Type: X11
+17:33:39.725: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.11
+17:33:39.725: Portable mode: false
+17:33:39.756: OBS 27.0.1 (linux)
+17:33:39.756: ---------------------------------
+17:33:39.756: ---------------------------------
+17:33:39.756: audio settings reset:
+17:33:39.756: 	samples per sec: 48000
+17:33:39.756: 	speakers:        2
+17:33:39.760: ---------------------------------
+17:33:39.760: Initializing OpenGL...
+17:33:39.826: Loading up OpenGL on adapter AMD AMD Radeon RX 5700 XT (NAVI10, DRM 3.40.0, 5.12.14_1, LLVM 12.0.0)
+17:33:39.826: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.4, shading language 4.60
+17:33:39.867: ---------------------------------
+17:33:39.867: video settings reset:
+17:33:39.867: 	base resolution:   1920x1080
+17:33:39.867: 	output resolution: 1280x720
+17:33:39.867: 	downscale filter:  Bicubic
+17:33:39.867: 	fps:               30/1
+17:33:39.867: 	format:            NV12
+17:33:39.867: 	YUV mode:          709/Partial
+17:33:39.867: NV12 texture support not available
+17:33:39.870: Audio monitoring device:
+17:33:39.870: 	name: Default
+17:33:39.870: 	id: default
+17:33:39.870: ---------------------------------
+17:33:39.870: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:33:39.871: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+17:33:39.937: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:33:39.937: No blackmagic support
+17:33:39.941: v4l2loopback not installed, virtual camera disabled
+17:33:39.947: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+17:33:39.947: 
+17:33:39.947: FFMPEG VAAPI supported
+17:33:39.953: VLC found, VLC video source enabled
+17:33:39.953: ---------------------------------
+17:33:39.953:   Loaded Modules:
+17:33:39.953:     vlc-video.so
+17:33:39.953:     text-freetype2.so
+17:33:39.953:     rtmp-services.so
+17:33:39.953:     obs-x264.so
+17:33:39.953:     obs-transitions.so
+17:33:39.953:     obs-outputs.so
+17:33:39.953:     obs-libfdk.so
+17:33:39.953:     obs-filters.so
+17:33:39.953:     obs-ffmpeg.so
+17:33:39.953:     linux-v4l2.so
+17:33:39.953:     linux-pulseaudio.so
+17:33:39.953:     linux-jack.so
+17:33:39.953:     linux-decklink.so
+17:33:39.953:     linux-capture.so
+17:33:39.953:     linux-alsa.so
+17:33:39.953:     image-source.so
+17:33:39.953:     frontend-tools.so
+17:33:39.953:     decklink-ouput-ui.so
+17:33:39.953:     decklink-captions.so
+17:33:39.953: ---------------------------------
+17:33:39.953: ==== Startup complete ===============================================
+17:33:39.955: No scene file found, creating default scene
+17:33:39.955: All scene data cleared
+17:33:39.955: ------------------------------------------------
+17:33:39.958: pulse-input: Server name: 'pulseaudio 14.2'
+17:33:39.959: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+17:33:39.959: pulse-input: Started recording from 'alsa_output.usb-Razer_Razer_Nari-00.analog-game.monitor'
+17:33:39.959: pulse-input: Server name: 'pulseaudio 14.2'
+17:33:39.959: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+17:33:39.959: pulse-input: Started recording from 'alsa_input.usb-Razer_Razer_Nari-00.analog-chat'
+17:33:39.959: Switched to scene 'Scene'
+17:33:39.959: Failed to glob scene collections
+17:33:40.515: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+17:33:40.515: 
+17:33:57.634: 
+17:33:57.634: ==== Auto-config wizard testing commencing ======
+
+17:33:57.670: ---------------------------------
+17:33:57.670: video settings reset:
+17:33:57.670: 	base resolution:   1920x1080
+17:33:57.670: 	output resolution: 1920x1080
+17:33:57.670: 	downscale filter:  Bicubic
+17:33:57.670: 	fps:               60/1
+17:33:57.670: 	format:            NV12
+17:33:57.670: 	YUV mode:          709/Partial
+17:33:57.670: NV12 texture support not available
+17:33:57.670: ---------------------------------
+17:33:57.670: [x264 encoder: 'test_x264'] preset: veryfast
+17:33:57.670: [x264 encoder: 'test_x264'] profile: high
+17:33:57.670: [x264 encoder: 'test_x264'] settings:
+17:33:57.670: 	rate_control: CRF
+17:33:57.670: 	bitrate:      0
+17:33:57.670: 	buffer size:  0
+17:33:57.670: 	crf:          20
+17:33:57.670: 	fps_num:      60
+17:33:57.670: 	fps_den:      1
+17:33:57.670: 	width:        1920
+17:33:57.670: 	height:       1080
+17:33:57.670: 	keyint:       250
+17:33:57.670: 
+17:33:57.677: ---------------------------------
+17:33:57.677: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+17:33:57.677: 
+17:34:02.678: Output 'null': stopping
+17:34:02.678: Output 'null': Total frames output: 267
+17:34:02.678: Output 'null': Total drawn frames: 300
+17:34:02.805: ---------------------------------
+17:34:02.805: video settings reset:
+17:34:02.805: 	base resolution:   1920x1080
+17:34:02.805: 	output resolution: 1920x1080
+17:34:02.805: 	downscale filter:  Bicubic
+17:34:02.805: 	fps:               30/1
+17:34:02.805: 	format:            NV12
+17:34:02.805: 	YUV mode:          709/Partial
+17:34:02.805: NV12 texture support not available
+17:34:02.805: ---------------------------------
+17:34:02.805: [x264 encoder: 'test_x264'] preset: veryfast
+17:34:02.805: [x264 encoder: 'test_x264'] profile: high
+17:34:02.805: [x264 encoder: 'test_x264'] settings:
+17:34:02.805: 	rate_control: CRF
+17:34:02.805: 	bitrate:      0
+17:34:02.805: 	buffer size:  0
+17:34:02.805: 	crf:          20
+17:34:02.805: 	fps_num:      30
+17:34:02.805: 	fps_den:      1
+17:34:02.805: 	width:        1920
+17:34:02.805: 	height:       1080
+17:34:02.805: 	keyint:       250
+17:34:02.805: 
+17:34:02.807: ---------------------------------
+17:34:02.808: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+17:34:02.808: 
+17:34:07.808: Output 'null': stopping
+17:34:07.808: Output 'null': Total frames output: 116
+17:34:07.808: Output 'null': Total drawn frames: 150
+17:34:07.938: ---------------------------------
+17:34:07.938: video settings reset:
+17:34:07.938: 	base resolution:   1920x1080
+17:34:07.938: 	output resolution: 1280x720
+17:34:07.938: 	downscale filter:  Bicubic
+17:34:07.938: 	fps:               60/1
+17:34:07.938: 	format:            NV12
+17:34:07.938: 	YUV mode:          709/Partial
+17:34:07.939: NV12 texture support not available
+17:34:07.939: ---------------------------------
+17:34:07.939: [x264 encoder: 'test_x264'] preset: veryfast
+17:34:07.939: [x264 encoder: 'test_x264'] profile: high
+17:34:07.939: [x264 encoder: 'test_x264'] settings:
+17:34:07.939: 	rate_control: CRF
+17:34:07.939: 	bitrate:      0
+17:34:07.939: 	buffer size:  0
+17:34:07.939: 	crf:          20
+17:34:07.939: 	fps_num:      60
+17:34:07.939: 	fps_den:      1
+17:34:07.939: 	width:        1280
+17:34:07.939: 	height:       720
+17:34:07.939: 	keyint:       250
+17:34:07.939: 
+17:34:07.941: ---------------------------------
+17:34:07.941: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+17:34:07.941: 
+17:34:10.939: Output 'null': stopping
+17:34:10.939: Output 'null': Total frames output: 146
+17:34:10.939: Output 'null': Total drawn frames: 179
+17:34:10.989: ---------------------------------
+17:34:10.989: video settings reset:
+17:34:10.989: 	base resolution:   1920x1080
+17:34:10.989: 	output resolution: 1280x720
+17:34:10.989: 	downscale filter:  Bicubic
+17:34:10.989: 	fps:               30/1
+17:34:10.989: 	format:            NV12
+17:34:10.989: 	YUV mode:          709/Partial
+17:34:10.989: NV12 texture support not available
+17:34:10.992: 
+17:34:10.992: ==== Auto-config wizard testing stopping ========
+
+17:34:43.910: Settings changed (outputs)
+17:34:43.910: ------------------------------------------------
+17:34:58.931: User added scene 'vbox-debug'
+17:34:58.932: User switched to scene 'vbox-debug'
+17:36:19.183: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'vbox-debug'
+17:36:19.193: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+17:36:19.194: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:19.194: 	title: Volume Control
+17:36:19.194: 	class: pavucontrol
+17:36:19.194: 	Bit depth: 24
+17:36:19.194: 	Found proper GLXFBConfig (in 368): yes
+17:36:19.194: 
+17:36:19.723: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+17:36:19.723: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:19.723: 	title: Volume Control
+17:36:19.723: 	class: pavucontrol
+17:36:19.723: 	Bit depth: 24
+17:36:19.723: 	Found proper GLXFBConfig (in 368): yes
+17:36:19.723: 
+17:36:22.523: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+17:36:22.524: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:22.524: 	title: Desktop — Plasma
+17:36:22.524: 	class: plasmashell
+17:36:22.524: 	Bit depth: 32
+17:36:22.524: 	Found proper GLXFBConfig (in 368): yes
+17:36:22.524: 
+17:36:22.990: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:22.990: 	title: Desktop — Plasma
+17:36:22.990: 	class: plasmashell
+17:36:22.990: 	Bit depth: 32
+17:36:22.990: 	Found proper GLXFBConfig (in 368): yes
+17:36:22.990: 
+17:36:24.524: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:24.524: 	title: Desktop — Plasma
+17:36:24.524: 	class: plasmashell
+17:36:24.524: 	Bit depth: 32
+17:36:24.524: 	Found proper GLXFBConfig (in 368): yes
+17:36:24.524: 
+17:36:25.024: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:25.024: 	title: Desktop — Plasma
+17:36:25.024: 	class: plasmashell
+17:36:25.024: 	Bit depth: 32
+17:36:25.024: 	Found proper GLXFBConfig (in 368): yes
+17:36:25.024: 
+17:36:27.557: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:27.557: 	title: test [Running] - Oracle VM VirtualBox
+17:36:27.557: 	class: VirtualBox Machine
+17:36:27.557: 	Bit depth: 24
+17:36:27.557: 	Found proper GLXFBConfig (in 368): yes
+17:36:27.557: 
+17:36:28.023: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:28.023: 	title: test [Running] - Oracle VM VirtualBox
+17:36:28.023: 	class: VirtualBox Machine
+17:36:28.023: 	Bit depth: 24
+17:36:28.023: 	Found proper GLXFBConfig (in 368): yes
+17:36:28.023: 
+17:36:32.691: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:36:32.691: 	title: test [Running] - Oracle VM VirtualBox
+17:36:32.691: 	class: VirtualBox Machine
+17:36:32.691: 	Bit depth: 24
+17:36:32.691: 	Found proper GLXFBConfig (in 368): yes
+17:36:32.691: 
+17:36:59.505: Settings changed (outputs)
+17:36:59.505: ------------------------------------------------
+17:37:02.827: ---------------------------------
+17:37:02.828: [FFMPEG VAAPI encoder: 'streaming_h264'] settings:
+17:37:02.828: 	device:       /dev/dri/renderD128
+17:37:02.828: 	rate_control: CBR
+17:37:02.828: 	profile:      578
+17:37:02.828: 	level:        40
+17:37:02.828: 	qp:           0
+17:37:02.828: 	bitrate:      2500
+17:37:02.828: 	maxrate:      2500
+17:37:02.828: 	keyint:       120
+17:37:02.828: 	width:        1280
+17:37:02.828: 	height:       720
+17:37:02.828: 	b-frames:     0
+17:37:02.828: 
+17:37:02.841: libfdk_aac encoder created
+17:37:02.841: libfdk_aac bitrate: 160, channels: 2
+17:37:02.844: ==== Recording Start ===============================================
+17:37:02.844: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/airamek/Videos/obs/2021-07-28 17-37-02.mkv'...
+17:37:19.295: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/airamek/Videos/obs/2021-07-28 17-37-02.mkv' stopped
+17:37:19.295: Output 'adv_file_output': stopping
+17:37:19.295: Output 'adv_file_output': Total frames output: 490
+17:37:19.295: Output 'adv_file_output': Total drawn frames: 494
+17:37:19.295: ==== Recording Stop ================================================
+17:37:19.298: libfdk_aac encoder destroyed
+17:39:52.358: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:52.358: 	title: test [Powered Off] - Oracle VM VirtualBox
+17:39:52.358: 	class: VirtualBox Machine
+17:39:52.358: 	Bit depth: 24
+17:39:52.358: 	Found proper GLXFBConfig (in 368): yes
+17:39:52.358: 
+17:39:52.390: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:52.390: 	title: test [Powered Off] - Oracle VM VirtualBox
+17:39:52.390: 	class: VirtualBox Machine
+17:39:52.390: 	Bit depth: 24
+17:39:52.390: 	Found proper GLXFBConfig (in 368): yes
+17:39:52.390: 
+17:39:52.590: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:52.590: 	title: test [Starting] - Oracle VM VirtualBox
+17:39:52.590: 	class: VirtualBox Machine
+17:39:52.590: 	Bit depth: 24
+17:39:52.590: 	Found proper GLXFBConfig (in 368): yes
+17:39:52.590: 
+17:39:55.191: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:55.191: 	title: test [Running] - Oracle VM VirtualBox
+17:39:55.191: 	class: VirtualBox Machine
+17:39:55.191: 	Bit depth: 24
+17:39:55.191: 	Found proper GLXFBConfig (in 368): yes
+17:39:55.191: 
+17:45:13.058: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:13.058: 	title: test [Running] - Oracle VM VirtualBox
+17:45:13.058: 	class: VirtualBox Machine
+17:45:13.058: 	Bit depth: 24
+17:45:13.058: 	Found proper GLXFBConfig (in 368): yes
+17:45:13.058: 
+17:45:13.090: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:13.090: 	title: test [Running] - Oracle VM VirtualBox
+17:45:13.090: 	class: VirtualBox Machine
+17:45:13.090: 	Bit depth: 24
+17:45:13.090: 	Found proper GLXFBConfig (in 368): yes
+17:45:13.090: 
+17:45:15.593: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:15.593: 	title: test [Running] - Oracle VM VirtualBox
+17:45:15.593: 	class: VirtualBox Machine
+17:45:15.593: 	Bit depth: 24
+17:45:15.593: 	Found proper GLXFBConfig (in 368): yes
+17:45:15.593: 
+17:45:26.391: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:26.391: 	title: test [Running] - Oracle VM VirtualBox
+17:45:26.391: 	class: VirtualBox Machine
+17:45:26.391: 	Bit depth: 24
+17:45:26.391: 	Found proper GLXFBConfig (in 368): yes
+17:45:26.391: 
+17:45:34.624: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:34.624: 	title: test [Running] - Oracle VM VirtualBox
+17:45:34.624: 	class: VirtualBox Machine
+17:45:34.624: 	Bit depth: 24
+17:45:34.624: 	Found proper GLXFBConfig (in 368): yes
+17:45:34.624: 
+17:45:34.658: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:34.658: 	title: test [Running] - Oracle VM VirtualBox
+17:45:34.658: 	class: VirtualBox Machine
+17:45:34.658: 	Bit depth: 24
+17:45:34.658: 	Found proper GLXFBConfig (in 368): yes
+17:45:34.658: 
+17:45:36.825: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:36.825: 	title: test [Running] - Oracle VM VirtualBox
+17:45:36.825: 	class: VirtualBox Machine
+17:45:36.825: 	Bit depth: 24
+17:45:36.825: 	Found proper GLXFBConfig (in 368): yes
+17:45:36.825: 
+17:45:45.824: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:45:45.824: 	title: test [Running] - Oracle VM VirtualBox
+17:45:45.824: 	class: VirtualBox Machine
+17:45:45.824: 	Bit depth: 24
+17:45:45.824: 	Found proper GLXFBConfig (in 368): yes
+17:45:45.824: 
+17:47:42.558: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:47:42.558: 	title: test [Running] - Oracle VM VirtualBox
+17:47:42.558: 	class: VirtualBox Machine
+17:47:42.558: 	Bit depth: 24
+17:47:42.558: 	Found proper GLXFBConfig (in 368): yes
+17:47:42.558: 
+17:47:42.590: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:47:42.590: 	title: test [Running] - Oracle VM VirtualBox
+17:47:42.590: 	class: VirtualBox Machine
+17:47:42.590: 	Bit depth: 24
+17:47:42.590: 	Found proper GLXFBConfig (in 368): yes
+17:47:42.590: 
+17:47:44.891: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:47:44.891: 	title: test [Running] - Oracle VM VirtualBox
+17:47:44.891: 	class: VirtualBox Machine
+17:47:44.891: 	Bit depth: 24
+17:47:44.891: 	Found proper GLXFBConfig (in 368): yes
+17:47:44.891: 
+17:47:47.053: ---------------------------------
+17:47:47.053: [FFMPEG VAAPI encoder: 'streaming_h264'] settings:
+17:47:47.053: 	device:       /dev/dri/renderD128
+17:47:47.053: 	rate_control: CBR
+17:47:47.053: 	profile:      578
+17:47:47.053: 	level:        40
+17:47:47.053: 	qp:           0
+17:47:47.053: 	bitrate:      2500
+17:47:47.053: 	maxrate:      2500
+17:47:47.053: 	keyint:       120
+17:47:47.053: 	width:        1280
+17:47:47.053: 	height:       720
+17:47:47.053: 	b-frames:     0
+17:47:47.053: 
+17:47:47.060: libfdk_aac encoder created
+17:47:47.060: libfdk_aac bitrate: 160, channels: 2
+17:47:47.062: ==== Recording Start ===============================================
+17:47:47.062: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/airamek/Videos/obs/2021-07-28 17-47-47.mkv'...
+17:47:56.424: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:47:56.424: 	title: test [Running] - Oracle VM VirtualBox
+17:47:56.424: 	class: VirtualBox Machine
+17:47:56.424: 	Bit depth: 24
+17:47:56.424: 	Found proper GLXFBConfig (in 368): yes
+17:47:56.424: 
+17:47:59.934: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/airamek/Videos/obs/2021-07-28 17-47-47.mkv' stopped
+17:47:59.934: Output 'adv_file_output': stopping
+17:47:59.934: Output 'adv_file_output': Total frames output: 383
+17:47:59.934: Output 'adv_file_output': Total drawn frames: 386
+17:47:59.934: ==== Recording Stop ================================================
+17:47:59.936: libfdk_aac encoder destroyed
+17:48:05.224: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:48:05.224: 	title: test [Running] - Oracle VM VirtualBox
+17:48:05.224: 	class: VirtualBox Machine
+17:48:05.224: 	Bit depth: 24
+17:48:05.224: 	Found proper GLXFBConfig (in 368): yes
+17:48:05.224: 
+17:48:05.257: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:48:05.257: 	title: test [Running] - Oracle VM VirtualBox
+17:48:05.257: 	class: VirtualBox Machine
+17:48:05.257: 	Bit depth: 24
+17:48:05.257: 	Found proper GLXFBConfig (in 368): yes
+17:48:05.257: 
+17:48:07.691: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:48:07.691: 	title: test [Running] - Oracle VM VirtualBox
+17:48:07.691: 	class: VirtualBox Machine
+17:48:07.691: 	Bit depth: 24
+17:48:07.691: 	Found proper GLXFBConfig (in 368): yes
+17:48:07.691: 
+17:48:12.718: ---------------------------------
+17:48:12.718: [FFMPEG VAAPI encoder: 'streaming_h264'] settings:
+17:48:12.718: 	device:       /dev/dri/renderD128
+17:48:12.718: 	rate_control: CBR
+17:48:12.718: 	profile:      578
+17:48:12.718: 	level:        40
+17:48:12.718: 	qp:           0
+17:48:12.718: 	bitrate:      2500
+17:48:12.718: 	maxrate:      2500
+17:48:12.718: 	keyint:       120
+17:48:12.718: 	width:        1280
+17:48:12.718: 	height:       720
+17:48:12.718: 	b-frames:     0
+17:48:12.718: 
+17:48:12.725: libfdk_aac encoder created
+17:48:12.725: libfdk_aac bitrate: 160, channels: 2
+17:48:12.727: ==== Recording Start ===============================================
+17:48:12.727: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/airamek/Videos/obs/2021-07-28 17-48-12.mkv'...
+17:48:22.125: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:48:22.125: 	title: test [Running] - Oracle VM VirtualBox
+17:48:22.125: 	class: VirtualBox Machine
+17:48:22.125: 	Bit depth: 24
+17:48:22.125: 	Found proper GLXFBConfig (in 368): yes
+17:48:22.125: 
+17:48:25.529: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/airamek/Videos/obs/2021-07-28 17-48-12.mkv' stopped
+17:48:25.529: Output 'adv_file_output': stopping
+17:48:25.529: Output 'adv_file_output': Total frames output: 380
+17:48:25.529: Output 'adv_file_output': Total drawn frames: 384
+17:48:25.529: ==== Recording Stop ================================================
+17:48:25.531: libfdk_aac encoder destroyed
+18:11:24.159: ==== Shutting down ==================================================
+18:11:24.161: X Error: BadValue (integer parameter out of range for operation), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 225488
+18:11:24.162: pulse-input: Stopped recording from 'alsa_output.usb-Razer_Razer_Nari-00.analog-game.monitor'
+18:11:24.162: pulse-input: Got 501658 packets with 99849770 frames
+18:11:24.162: pulse-input: Stopped recording from 'alsa_input.usb-Razer_Razer_Nari-00.analog-chat'
+18:11:24.162: pulse-input: Got 227616 packets with 99851528 frames
+18:11:24.162: All scene data cleared
+18:11:24.162: ------------------------------------------------
+18:11:24.230: [Scripting] Total detached callbacks: 0
+18:11:24.243: Freeing OBS context data
+18:11:24.268: == Profiler Results =============================
+18:11:24.268: run_program_init: 395.35 ms
+18:11:24.268:  ┣OBSApp::AppInit: 4.998 ms
+18:11:24.268:  ┃ ┗OBSApp::InitLocale: 0.636 ms
+18:11:24.268:  ┗OBSApp::OBSInit: 340.97 ms
+18:11:24.268:    ┣obs_startup: 13.932 ms
+18:11:24.268:    ┗OBSBasic::OBSInit: 296.228 ms
+18:11:24.268:      ┣OBSBasic::InitBasicConfig: 0.207 ms
+18:11:24.268:      ┣OBSBasic::ResetAudio: 0.096 ms
+18:11:24.268:      ┣OBSBasic::ResetVideo: 113.178 ms
+18:11:24.268:      ┣OBSBasic::InitOBSCallbacks: 0.003 ms
+18:11:24.268:      ┣OBSBasic::InitHotkeys: 0.03 ms
+18:11:24.268:      ┣obs_load_all_modules: 83.331 ms
+18:11:24.268:      ┃ ┣obs_init_module(decklink-captions.so): 0.025 ms
+18:11:24.268:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.408 ms
+18:11:24.268:      ┃ ┣obs_init_module(frontend-tools.so): 58.771 ms
+18:11:24.268:      ┃ ┣obs_init_module(image-source.so): 0.004 ms
+18:11:24.268:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+18:11:24.268:      ┃ ┣obs_init_module(linux-capture.so): 0.173 ms
+18:11:24.268:      ┃ ┣obs_init_module(linux-decklink.so): 0.074 ms
+18:11:24.268:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+18:11:24.268:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+18:11:24.268:      ┃ ┣obs_init_module(linux-v4l2.so): 0.899 ms
+18:11:24.268:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.16 ms
+18:11:24.268:      ┃ ┃ ┗nvenc_check: 0.147 ms
+18:11:24.268:      ┃ ┣obs_init_module(obs-filters.so): 0.014 ms
+18:11:24.268:      ┃ ┣obs_init_module(obs-libfdk.so): 0 ms
+18:11:24.268:      ┃ ┣obs_init_module(obs-outputs.so): 0 ms
+18:11:24.268:      ┃ ┣obs_init_module(obs-transitions.so): 0.003 ms
+18:11:24.268:      ┃ ┣obs_init_module(obs-x264.so): 0 ms
+18:11:24.268:      ┃ ┣obs_init_module(rtmp-services.so): 0.051 ms
+18:11:24.268:      ┃ ┣obs_init_module(text-freetype2.so): 0.01 ms
+18:11:24.268:      ┃ ┗obs_init_module(vlc-video.so): 2.142 ms
+18:11:24.268:      ┣OBSBasic::ResetOutputs: 0.064 ms
+18:11:24.268:      ┣OBSBasic::CreateHotkeys: 0.024 ms
+18:11:24.268:      ┣OBSBasic::InitService: 0.97 ms
+18:11:24.268:      ┣OBSBasic::InitPrimitives: 0.077 ms
+18:11:24.268:      ┗OBSBasic::Load: 3.531 ms
+18:11:24.268: obs_hotkey_thread(25 ms): min=0.029 ms, median=0.074 ms, max=57.46 ms, 99th percentile=0.165 ms, 99.9756% below 25 ms
+18:11:24.268: audio_thread(Audio): min=0 ms, median=0.027 ms, max=1.598 ms, 99th percentile=0.295 ms
+18:11:24.268:  ┗receive_audio: min=0.001 ms, median=0.248 ms, max=1.564 ms, 99th percentile=0.55 ms, 0.024183 calls per parent call
+18:11:24.268:    ┣buffer_audio: min=0 ms, median=0 ms, max=0.033 ms, 99th percentile=0.002 ms
+18:11:24.268:    ┗do_encode: min=0.009 ms, median=0.247 ms, max=1.563 ms, 99th percentile=0.548 ms
+18:11:24.268:      ┣encode(test_aac): min=0.009 ms, median=0.107 ms, max=0.993 ms, 99th percentile=0.208 ms, 0.236893 calls per parent call
+18:11:24.268:      ┗encode(Track1): min=0.06 ms, median=0.257 ms, max=0.686 ms, 99th percentile=0.542 ms, 0.763107 calls per parent call
+18:11:24.268: obs_graphics_thread(33.3333 ms): min=0.043 ms, median=0.174 ms, max=55.494 ms, 99th percentile=18.047 ms, 99.2509% below 33.333 ms
+18:11:24.268:  ┣tick_sources: min=0 ms, median=0.003 ms, max=0.035 ms, 99th percentile=0.008 ms
+18:11:24.268:  ┣output_frame: min=0.031 ms, median=0.044 ms, max=9.921 ms, 99th percentile=0.09 ms
+18:11:24.268:  ┃ ┗gs_context(video->graphics): min=0.031 ms, median=0.044 ms, max=9.921 ms, 99th percentile=0.09 ms
+18:11:24.268:  ┃   ┣render_video: min=0.008 ms, median=0.011 ms, max=2.238 ms, 99th percentile=0.028 ms
+18:11:24.268:  ┃   ┃ ┗render_main_texture: min=0.006 ms, median=0.01 ms, max=2.235 ms, 99th percentile=0.024 ms
+18:11:24.268:  ┃   ┗gs_flush: min=0.015 ms, median=0.028 ms, max=7.668 ms, 99th percentile=0.058 ms
+18:11:24.268:  ┗render_displays: min=0.001 ms, median=0.112 ms, max=55.394 ms, 99th percentile=17.959 ms
+18:11:24.268: obs_graphics_thread(16.6667 ms): min=0.17 ms, median=2.695 ms, max=10.949 ms, 99th percentile=4.931 ms, 100% below 16.667 ms
+18:11:24.268:  ┣tick_sources: min=0.002 ms, median=0.007 ms, max=0.011 ms, 99th percentile=0.01 ms
+18:11:24.268:  ┣output_frame: min=0.059 ms, median=2.275 ms, max=10.741 ms, 99th percentile=3.636 ms
+18:11:24.268:  ┃ ┣gs_context(video->graphics): min=0.058 ms, median=1.89 ms, max=10.741 ms, 99th percentile=3.243 ms
+18:11:24.268:  ┃ ┃ ┣render_video: min=0.022 ms, median=1.878 ms, max=10.726 ms, 99th percentile=3.228 ms
+18:11:24.268:  ┃ ┃ ┃ ┣render_main_texture: min=0.021 ms, median=0.062 ms, max=0.187 ms, 99th percentile=0.097 ms
+18:11:24.268:  ┃ ┃ ┃ ┣render_convert_texture: min=0.015 ms, median=0.032 ms, max=3.867 ms, 99th percentile=0.12 ms
+18:11:24.268:  ┃ ┃ ┃ ┗stage_output_texture: min=0.793 ms, median=1.78 ms, max=6.787 ms, 99th percentile=3.126 ms
+18:11:24.268:  ┃ ┃ ┣gs_flush: min=0 ms, median=0.001 ms, max=0.091 ms, 99th percentile=0.051 ms
+18:11:24.268:  ┃ ┃ ┗download_frame: min=0 ms, median=0.003 ms, max=0.008 ms, 99th percentile=0.006 ms
+18:11:24.268:  ┃ ┗output_video_data: min=0.248 ms, median=0.37 ms, max=1.03 ms, 99th percentile=0.76 ms
+18:11:24.268:  ┗render_displays: min=0.095 ms, median=0.358 ms, max=1.99 ms, 99th percentile=1.788 ms
+18:11:24.268: video_thread(video): min=1.011 ms, median=1.329 ms, max=20.346 ms, 99th percentile=14.394 ms
+18:11:24.269:  ┗receive_video: min=1.01 ms, median=1.328 ms, max=20.345 ms, 99th percentile=14.394 ms
+18:11:24.269:    ┗do_encode: min=1.009 ms, median=1.327 ms, max=20.344 ms, 99th percentile=14.393 ms
+18:11:24.269:      ┗encode(test_x264): min=0.954 ms, median=1.278 ms, max=20.343 ms, 99th percentile=14.392 ms
+18:11:24.269: obs_graphics_thread(33.3333 ms): min=0.193 ms, median=2.476 ms, max=3.795 ms, 99th percentile=3.367 ms, 100% below 33.333 ms
+18:11:24.269:  ┣tick_sources: min=0.003 ms, median=0.007 ms, max=0.01 ms, 99th percentile=0.01 ms
+18:11:24.269:  ┣output_frame: min=0.077 ms, median=2.117 ms, max=3.527 ms, 99th percentile=3.11 ms
+18:11:24.269:  ┃ ┣gs_context(video->graphics): min=0.077 ms, median=1.762 ms, max=2.603 ms, 99th percentile=2.592 ms
+18:11:24.269:  ┃ ┃ ┣render_video: min=0.035 ms, median=1.752 ms, max=2.592 ms, 99th percentile=2.582 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_main_texture: min=0.02 ms, median=0.052 ms, max=0.082 ms, 99th percentile=0.08 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_convert_texture: min=0.018 ms, median=0.03 ms, max=0.072 ms, 99th percentile=0.048 ms
+18:11:24.269:  ┃ ┃ ┃ ┗stage_output_texture: min=1.084 ms, median=1.66 ms, max=2.496 ms, 99th percentile=2.496 ms
+18:11:24.269:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.001 ms, max=0.088 ms, 99th percentile=0.072 ms
+18:11:24.269:  ┃ ┃ ┗download_frame: min=0 ms, median=0.003 ms, max=0.009 ms, 99th percentile=0.007 ms
+18:11:24.269:  ┃ ┗output_video_data: min=0.282 ms, median=0.327 ms, max=1.038 ms, 99th percentile=1.036 ms
+18:11:24.269:  ┗render_displays: min=0.093 ms, median=0.295 ms, max=0.523 ms, 99th percentile=0.506 ms
+18:11:24.269: video_thread(video): min=1.048 ms, median=1.296 ms, max=2.188 ms, 99th percentile=2.175 ms
+18:11:24.269:  ┗receive_video: min=1.047 ms, median=1.295 ms, max=2.187 ms, 99th percentile=2.173 ms
+18:11:24.269:    ┗do_encode: min=1.046 ms, median=1.293 ms, max=2.186 ms, 99th percentile=2.172 ms
+18:11:24.269:      ┗encode(test_x264): min=0.993 ms, median=1.235 ms, max=2.121 ms, 99th percentile=2.107 ms
+18:11:24.269: obs_graphics_thread(16.6667 ms): min=0.212 ms, median=1.695 ms, max=18.28 ms, 99th percentile=2.959 ms, 99.4536% below 16.667 ms
+18:11:24.269:  ┣tick_sources: min=0.002 ms, median=0.006 ms, max=0.032 ms, 99th percentile=0.01 ms
+18:11:24.269:  ┣output_frame: min=0.043 ms, median=1.455 ms, max=18.111 ms, 99th percentile=2.732 ms
+18:11:24.269:  ┃ ┣gs_context(video->graphics): min=0.043 ms, median=1.314 ms, max=18.111 ms, 99th percentile=2.602 ms
+18:11:24.269:  ┃ ┃ ┣render_video: min=0.012 ms, median=1.306 ms, max=18.103 ms, 99th percentile=2.593 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_main_texture: min=0.011 ms, median=0.043 ms, max=0.069 ms, 99th percentile=0.068 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_output_texture: min=0.009 ms, median=0.019 ms, max=4.441 ms, 99th percentile=0.034 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_convert_texture: min=0.01 ms, median=0.018 ms, max=0.049 ms, 99th percentile=0.046 ms
+18:11:24.269:  ┃ ┃ ┃ ┗stage_output_texture: min=0.592 ms, median=1.211 ms, max=13.622 ms, 99th percentile=2.497 ms
+18:11:24.269:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.001 ms, max=0.059 ms, 99th percentile=0.042 ms
+18:11:24.269:  ┃ ┃ ┗download_frame: min=0 ms, median=0.002 ms, max=0.007 ms, 99th percentile=0.006 ms
+18:11:24.269:  ┃ ┗output_video_data: min=0.089 ms, median=0.137 ms, max=0.47 ms, 99th percentile=0.456 ms
+18:11:24.269:  ┗render_displays: min=0.102 ms, median=0.189 ms, max=0.324 ms, 99th percentile=0.297 ms
+18:11:24.269: video_thread(video): min=0 ms, median=0.683 ms, max=1.836 ms, 99th percentile=1.809 ms
+18:11:24.269:  ┗receive_video: min=0.476 ms, median=0.688 ms, max=1.836 ms, 99th percentile=1.808 ms
+18:11:24.269:    ┗do_encode: min=0.475 ms, median=0.687 ms, max=1.835 ms, 99th percentile=1.808 ms
+18:11:24.269:      ┗encode(test_x264): min=0.451 ms, median=0.656 ms, max=1.834 ms, 99th percentile=1.807 ms
+18:11:24.269: obs_graphics_thread(33.3333 ms): min=0.122 ms, median=0.231 ms, max=106.874 ms, 99th percentile=1.158 ms, 99.9254% below 33.333 ms
+18:11:24.269:  ┣tick_sources: min=0.002 ms, median=0.031 ms, max=98.387 ms, 99th percentile=0.601 ms
+18:11:24.269:  ┣output_frame: min=0.028 ms, median=0.05 ms, max=12.273 ms, 99th percentile=0.79 ms
+18:11:24.269:  ┃ ┣gs_context(video->graphics): min=0.028 ms, median=0.05 ms, max=12.149 ms, 99th percentile=0.647 ms
+18:11:24.269:  ┃ ┃ ┣render_video: min=0.006 ms, median=0.013 ms, max=12.125 ms, 99th percentile=0.636 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_main_texture: min=0.006 ms, median=0.011 ms, max=2.957 ms, 99th percentile=0.051 ms
+18:11:24.269:  ┃ ┃ ┃ ┣render_output_texture: min=0.007 ms, median=0.012 ms, max=0.071 ms, 99th percentile=0.036 ms, 0.0188688 calls per parent call
+18:11:24.269:  ┃ ┃ ┃ ┣render_convert_texture: min=0.009 ms, median=0.015 ms, max=0.199 ms, 99th percentile=0.031 ms, 0.0188688 calls per parent call
+18:11:24.269:  ┃ ┃ ┃ ┗stage_output_texture: min=0.468 ms, median=0.572 ms, max=12.002 ms, 99th percentile=1.432 ms, 0.0188688 calls per parent call
+18:11:24.269:  ┃ ┃ ┣gs_flush: min=0 ms, median=0.03 ms, max=4.292 ms, 99th percentile=0.061 ms
+18:11:24.269:  ┃ ┃ ┗download_frame: min=0 ms, median=0.002 ms, max=0.026 ms, 99th percentile=0.005 ms, 0.0188688 calls per parent call
+18:11:24.269:  ┃ ┗output_video_data: min=0.083 ms, median=0.145 ms, max=0.333 ms, 99th percentile=0.238 ms, 0.018824 calls per parent call
+18:11:24.269:  ┗render_displays: min=0.002 ms, median=0.117 ms, max=106.557 ms, 99th percentile=0.302 ms
+18:11:24.269: OBSBasic::ResetOutputs: min=0.145 ms, median=0 ms, max=0.162 ms, 99th percentile=0.162 ms
+18:11:24.269: video_thread(video): min=1.98 ms, median=3.179 ms, max=7.93 ms, 99th percentile=4.249 ms
+18:11:24.269:  ┗receive_video: min=1.979 ms, median=3.178 ms, max=7.929 ms, 99th percentile=4.247 ms
+18:11:24.269:    ┗do_encode: min=1.979 ms, median=3.178 ms, max=7.928 ms, 99th percentile=4.245 ms
+18:11:24.269:      ┗encode(streaming_h264): min=1.976 ms, median=3.173 ms, max=7.924 ms, 99th percentile=4.107 ms
+18:11:24.269: =================================================
+18:11:24.269: == Profiler Time Between Calls ==================
+18:11:24.269: obs_hotkey_thread(25 ms): min=25.038 ms, median=25.131 ms, max=82.523 ms, 99.7567% within ±2% of 25 ms (0% lower, 0.243333% higher)
+18:11:24.269: obs_graphics_thread(33.3333 ms): min=11.188 ms, median=33.333 ms, max=55.5 ms, 98.4991% within ±2% of 33.333 ms (0.750469% lower, 0.750469% higher)
+18:11:24.269: obs_graphics_thread(16.6667 ms): min=16.501 ms, median=16.667 ms, max=16.832 ms, 100% within ±2% of 16.667 ms (0% lower, 0% higher)
+18:11:24.269: obs_graphics_thread(33.3333 ms): min=33.239 ms, median=33.334 ms, max=33.387 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+18:11:24.269: obs_graphics_thread(16.6667 ms): min=15.05 ms, median=16.667 ms, max=18.285 ms, 98.9011% within ±2% of 16.667 ms (0.549451% lower, 0.549451% higher)
+18:11:24.269: obs_graphics_thread(33.3333 ms): min=1.018 ms, median=33.333 ms, max=106.885 ms, 99.8537% within ±2% of 33.333 ms (0.0731474% lower, 0.0731474% higher)
+18:11:24.269: =================================================
+18:11:24.290: Number of memory leaks: 0

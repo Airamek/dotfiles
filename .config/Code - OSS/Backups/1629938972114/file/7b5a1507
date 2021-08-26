@@ -1,0 +1,48 @@
+file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/09-reraid-shenanigans.sh {"mtime":1629938006595,"ctime":0,"size":1712,"etag":"37e5riik31o7","orphaned":false,"typeId":""}
+# When the system is live booted, the root filesystem
+# cannot be used for storing settings, so we load them
+# from the boot device
+if [ $RERAID_LIVE ]; then
+    # Some defaults if the ident.cfg can't be loaded
+    NAME="Orange"
+    timeZone="Europe/Budapest"
+    msg "Restoring user settings..."
+    # Set hostname
+    if [ -r /boot/config/ident.cfg ]; then
+      fromdos < /boot/config/ident.cfg > /tmp/ident.cfg
+      source /tmp/ident.cfg
+    fi
+    echo $NAME > /etc/hostname
+    printf "%s" "$NAME" > /proc/sys/kernel/hostname
+    echo "# Generated" > /etc/hosts
+    echo "#<ip-address>		<hostname.domain.org>	<hostname>" >> /etc/hosts
+    echo "127.0.0.1	      $NAME                 localhost" >> /etc/hosts
+    # Set the timezone
+    if [ ! $timeZone = "custom" ]; then 
+        ln -sf /usr/share/zoneinfo/$timeZone /etc/localtime
+    else
+        cp /boot/config/timezone /etc/localtime
+    fi
+
+    # Restore users and passwords
+    if [ -r /boot/config/passwd ]; then
+        IFS=: # read separator
+        while read -r username password userid groupid comment homedir cmdshell; do
+            if [ $userid -ge 1000 ]; then
+                echo "$username:x:$userid:$groupid:$comment:$homedir:$cmdshell" >> /etc/passwd
+                mkdir -p $homedir
+            fi
+        done < /boot/config/passwd
+        unset IFS
+        if [ -r /boot/config/shadow ]; then
+            cp /boot/config/shadow /etc
+            chmod 600 /etc/shadow
+        fi
+    fi
+    if [ -r /boot/config/smbpasswd ]; then
+        cp /boot/config/smbpasswd /var/lib/samba/private
+    fi
+    if [ -r /boot/config/secrets.tdb ]; then
+        cp /boot/config/secrets.tdb /var/lib/samba/private
+    fi
+fi

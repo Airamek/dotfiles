@@ -1,0 +1,16 @@
+[2021-08-26 00:25:02.992] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-26 00:25:02.993] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210825T144803, 20210825T144814, 20210825T145041, 20210825T145100, 20210825T150040, 20210825T185653, 20210825T185755, 20210825T185818, 20210825T190556, 20210825T191140, 20210825T192222'
+[2021-08-26 00:25:22.991] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-26 00:25:22.993] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629910676355.
+[2021-08-26 00:25:22.994] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629911975161.
+[2021-08-26 00:25:22.994] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629912142896.
+[2021-08-26 00:25:22.994] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629915298270.
+[2021-08-26 00:25:22.995] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629920370400.
+[2021-08-26 00:25:22.995] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629920856251.
+[2021-08-26 00:25:22.995] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629921531061.
+[2021-08-26 00:25:22.996] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629921630070.
+[2021-08-26 00:25:22.996] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629923794624.
+[2021-08-26 00:25:22.996] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629923918367.
+[2021-08-26 00:25:22.997] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629924017427.
+[2021-08-26 00:25:22.997] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629924032816.
+[2021-08-26 00:25:22.997] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1629924041751.

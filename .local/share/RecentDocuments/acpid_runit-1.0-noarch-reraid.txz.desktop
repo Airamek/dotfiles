@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-xz-compressed-tar
+Name=acpid_runit-1.0-noarch-reraid.txz
+Type=Link
+URL[$e]=file:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/essentialsv2-noarch/acpid_runit-1.0-noarch-reraid.txz
+X-KDE-LastOpenedWith=org.kde.ark

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Infinity-Dark-Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436570</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>70</rating>
+  <downloads>1858</downloads>
+  <installedfile>/home/airamek/.local/share/icons/Infinity-Dark-Icons/*</installedfile>
+  <id>1436570</id>
+  <releasedate>2021-07-01</releasedate>
+  <summary>&lt;strong>Icons for Dark Plasma Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #006dda;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1436567/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+----------------------&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #08a19d;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #08a19d;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+______________________&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+ &lt;span style="color: #08a19d;"> &lt;strong>Starry Nebula 108 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1241434" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/d/2/5/cdb6db2c3d305f2b5174bfb1bcd686537a726792e061a4f5838fe300f8a813ac5412.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/d/2/5/cdb6db2c3d305f2b5174bfb1bcd686537a726792e061a4f5838fe300f8a813ac5412.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjUxMjY3MjEiLCJvIjoiMSIsInMiOiIyMWYwODM4NjJhM2E4YjI1Mjc4MWY5YmU3OWNmODE2ODU3NTgzZjgyN2VjZGVjM2RlZmViNWZlZGI1OTkwMDM0YmVhODhkMjJmYTM3OWE2YTNlMGVmMGE4ZDI3MzRhMjRmYTUyMjIwNWI2MjMwNzIzOGIwNmIwODY2ODVjM2Y2YyIsInQiOjE2MjU1ODU3OTQsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.Niom62gCxlWlefFAoQv1BLBi8CfCVg-j1W6W7yFnaYg/Infinity-Dark-Icons.tar.gz</payload>
+  <tags>unix,linux,efi,gplv3,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Infinity-Light-Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436567</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>43</rating>
+  <downloads>479</downloads>
+  <installedfile>/home/airamek/.local/share/icons/Infinity-Light-Icons/*</installedfile>
+  <id>1436567</id>
+  <releasedate>2021-07-01</releasedate>
+  <summary>&lt;strong>Icons for Light Plasma Themes  &lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #006dda;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436570/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+----------------------&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #08a19d;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons: &lt;span style="color: #08a19d;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+______________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #08a19d;"> &lt;strong> Plasma Desktop Wallpaper 1913 4K 2K HD&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1423864" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/c/b/5/9a583869ed88b3e474da642b669d1053e55db1028145c4086ad2182e8650312eb587.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/c/b/5/9a583869ed88b3e474da642b669d1053e55db1028145c4086ad2182e8650312eb587.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjUxMjU5MDAiLCJvIjoiMSIsInMiOiJlNTkzYzkyMDRjMzQ4M2MwNTMxZWFhNmRjNmNhM2RmMGIzN2NlMjdjZGJlZjBkMWU5OGU4MzMyNTkzMTM2ZjFiMThhNTI2MjA4MGQ1YWEwMjMwZDZiNWZmYTg1OWIwM2YyOGZkYTk1Mzg4OWJjMWIxM2M1YTk0OWU1ODk5ZjBiOSIsInQiOjE2MjU1ODU3OTcsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.1KEEjs0Q3h1pzfly0sAsXXJHQbc02R2OTrLja7RWNmw/Infinity-Light-Icons.tar.gz</payload>
+  <tags>unix,efi,icon-theme,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>BeautyLine</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sajjad606</author>
+  <homepage>https://store.kde.org/p/1425426</homepage>
+  <licence></licence>
+  <version>Full</version>
+  <rating>91</rating>
+  <downloads>31954</downloads>
+  <installedfile>/home/airamek/.local/share/icons/BeautyLine/*</installedfile>
+  <id>1425426</id>
+  <releasedate>2021-03-11</releasedate>
+  <summary>outlined icons Designed to have unified look and comprehensive coverage.&lt;br />
+I updated about all icons to give you a original set.&lt;br />
+&lt;br />
+Beauty icon set include most of mimetypes, actions, apps, places, categories and device icons, and more will be added.&lt;br />
+Most of Famous DE's are considered in designing stage but Feel free to remind me any forgoten Icons. &lt;br />
+next things would be:&lt;br />
+- panel icons&lt;br />
+- emblems&lt;br />
+- status icons&lt;br />
+Almost Done -&amp;gt; more action icons&lt;br />
+- more apps covered&lt;br />
+ Also I know there is a problem in some icons but I'll redesign them in every release.&lt;br />
+&lt;br />
+I will try to complete the icon set as soon as possible.&lt;br />
+your comments and ideas will be covered and implemented even sooner, so any comment and idea is most welcome.&lt;br />
+&lt;br />
+Just enjoy it :)&lt;br />
+&lt;a href="http://designpark.ir" target="_blank" rel="nofollow">My Webdesign - طراحی سایت &lt;/a> web site , more icon sets and My other works will be available on Website and Github</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/b/c/f/52f86681b973e175029934912010abe1b01cbfc550b4df4165d9514c05cb07b2af7f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/b/c/f/52f86681b973e175029934912010abe1b01cbfc550b4df4165d9514c05cb07b2af7f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTUzODEzOTEiLCJvIjoiMSIsInMiOiI5Zjg5NjlkMTUzZTczNzdiMGJmMDAwZThjOWFmYmNkNjdjNThhYmRmMDdjZGMwY2UzYWRiMDhjMjI4ZDdhMzVkMjFiNzRkNWEzNTMyMWRiNDkwY2U1ZDA2MTliOWU0OTgwYTg5NjAxYWM4YmM4MmYxNDBiMzgxMzgwYjMxNTQ4NSIsInQiOjE2MjU1ODU1MzEsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.HGldtTvc9WRwX-04kf0iQ8OFmUQaRz72-ArFoHGdSTE/BeautyLine-20210310130119.tar.gz</payload>
+  <tags>original-product,outline,unix,kde,gnome,xfce,lxde,cinnamon,mate,lxqt,deepin,elementary,budgie,beauty,candy,gplv3,colorful,linux,modern,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.2.8</version>
+  <rating>93</rating>
+  <downloads>56194</downloads>
+  <installedfile>/home/airamek/.local/share/icons/candy-icons/*</installedfile>
+  <id>1305251</id>
+  <releasedate>2021-05-09</releasedate>
+  <summary>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjA1ODg1NjUiLCJvIjoiMSIsInMiOiIzMTA3NGNhNzFlYjZiYmVhMjkwMzA5M2I4ZTY3ZTYxNGFkNGNhZTJkYjZkZmVhMWI4YTQyN2ZkMjNkNGJlNGUxM2MzOTZkNTljMTFiMzRhYjFkNTQ5Njk1N2FlNzgyYTBjYTZkZTU3NmJhMmNkZjQ0MGNhNzAxMmIxMjYxMDllMyIsInQiOjE2MjU0MjM2MzAsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.d_DPCmFHlFGVKvNV0jnSgaHUneujgGh5yF_GF5l-d18/candy-icons.tar.xz</payload>
+  <tags>original-product,unix,linux,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1298508</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>59</rating>
+  <downloads>7093</downloads>
+  <installedfile>/home/airamek/.local/share/icons/Breeze-Chameleon Light/*</installedfile>
+  <id>1298508</id>
+  <releasedate>2021-06-25</releasedate>
+  <summary>The folders change color depending on the  &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>&lt;br />
+(Icons for Light Plasma Themes)&lt;br />
+&lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The icons are based on the Default "Breeze" Icon Theme.&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes:&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze Chameleon Dark Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/6/7/7/c5bee9d2aa625c74b50c1a9716bd894194b6.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/6/7/7/c5bee9d2aa625c74b50c1a9716bd894194b6.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQ2MTAxMDIiLCJvIjoiMSIsInMiOiIzMjNjYWY3MjBlYzFiOGMwYzZmNTgyMGZhNzRmNDMzYzY5MjlhZjVmN2I5ZTZlZWM0ZDJlOTViZTAyNjgzMWYyNzI3YmFjMDk5YThkZWIzOTAyY2ZiYjk0ZWQ2NWRjOTA4OTAzMTE4YjY1NTY5ZTg1NDE2NTZlNDA2ZWVkNjQ1NSIsInQiOjE2MjU1ODU4MDQsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.nFQjoe8rAqtCIb_RG5YLQ_7WfroHoghzVRKdSn8PNA4/Breeze-Chameleon Light.tar.gz</payload>
+  <tags>gplv3,icon-theme,efi,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1281798</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>84</rating>
+  <downloads>7896</downloads>
+  <installedfile>/home/airamek/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
+  <id>1281798</id>
+  <releasedate>2021-06-25</releasedate>
+  <summary>The folders change color depending on the&lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze Chameleon Dark Icons&lt;/strong> &lt;/span>&lt;br />
+(Icons for Dark Plasma Themes)&lt;br />
+ &lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The icons are based on the Default "Breeze" Icon Theme.&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes:&lt;br />
+&lt;br />
+&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Charlie-Henson &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/7/5/7/74f39172376b3e9f683f6fbc92c088b3b4591191087990da0b721c1ffea86c9e7296.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/7/5/7/74f39172376b3e9f683f6fbc92c088b3b4591191087990da0b721c1ffea86c9e7296.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQ2MTAyMTAiLCJvIjoiMSIsInMiOiI5MGIzM2I4MmQzMWM0Yjc1MWU1Yjc0NmU1Y2ExYWVmMmUxNzVhYWI4MTczMzdlN2IzNWQxM2ZlMDAwMjQzZDJiNDU3ZWM5YzJkMjdhN2Q5NGIwMzg2MzhiNGM4ODEzZmNkOTkwNDg3MDkzNDdiNjg5NTM0NjNmNDIxODZhZGFlOSIsInQiOjE2MjU1ODU4MDEsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.i81TqPFaAa0CjRk1NkyT5wmOMB-h2j8pIpzKkkaMT6A/Breeze Chameleon Dark.tar.gz</payload>
+  <tags>unix,icon-theme,gplv3,linux,efi</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294011</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>80</rating>
+  <downloads>479915</downloads>
+  <installedfile>/home/airamek/.local/share/color-schemes/Sweet.colors</installedfile>
+  <id>1294011</id>
+  <releasedate>2019-05-04</releasedate>
+  <summary>Color scheme for &lt;a href="https://www.opendesktop.org/p/1294013/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+Settings in screenshot:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet Kvantum theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1286856/" target="_blank" rel="nofollow">Sweet aurorae theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294174/" target="_blank" rel="nofollow">Sweet Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to the &lt;a href="https://addons.mozilla.org/es/firefox/addon/sweet-dark/" target="_blank" rel="nofollow">sweet-dark&lt;/a> extension for a better looking or try my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/1/b/e/a319d50cbeb1186fd04564bf38b43bfbc834.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/1/b/e/a319d50cbeb1186fd04564bf38b43bfbc834.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTcwMDQzNTYiLCJvIjoiMSIsInMiOiJjZjQ5NTUzMjk5OWFhODQwYzMzN2ZjZGE3YzUyNmVkYTU2NTA3MDA4ZmMyM2Q2ZGUwZWZlNmU4Njg5M2Q3ZTUwYThjZjE2YjdmNmI3YzVlZDI5Y2U2NTQ1MGI3ZGM0Y2M4MThhZGYyZGFmNDkyZDIyYjNhNjY1ZjA1NGMzYjA4NCIsInQiOjE2MjU0MjY5NzYsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.yxHndCRgBDS7yjh6i9PVq4zfGFzKTwhjOPsj_4-Ot7o/Sweet.tar.xz</payload>
+  <tags>kde,colorscheme,linux,gplv3,unix,theme,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Sweet Mars KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393486</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>213727</downloads>
+  <installedfile>/home/airamek/.local/share/color-schemes/Sweet-Mars.colors</installedfile>
+  <id>1393486</id>
+  <releasedate>2020-06-13</releasedate>
+  <summary>Sweet Mars color scheme&lt;br />
+&lt;br />
+Settings in screenshot:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet-Mars Kvantum theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1393497/" target="_blank" rel="nofollow">Sweet-Mars aurorae theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1393498/" target="_blank" rel="nofollow">Sweet,Mars Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet-Mars Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to  my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/c/8/7/64308f5f8222946f0cc9d786c63d987cf281.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/c/8/7/64308f5f8222946f0cc9d786c63d987cf281.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTIwNzkwNTAiLCJvIjoiMSIsInMiOiJhNThhZDM0MmNkNzE3YTI1ZmNkZTc0MTI2ZTM0NDVhMGFiNjQwMTI0N2ViMzFmYTJiODkyNWEzMGM4Njk2NzVhYjRiNWI5YzQ4OTE2NGFkMTI1YTZlYTc5YmRlNTk5MTBmYjQ4NjRjNzQzMjJhOWU0MzBjZTg4OTNjMTA1Y2FmNCIsInQiOjE2MjU0MjcwMDksInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.Yz5nnvMqg6LS1_infcM-iI_zXoZKeTdlKRKexULGnt4/Sweet-Mars.tar.xz</payload>
+  <tags>linux,kde,colorscheme,gplv3,unix,theme,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Arch Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1540593</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>7429</downloads>
+  <installedfile>/home/airamek/.local/share/color-schemes/ArchManjaro.colors</installedfile>
+  <installedfile>/home/airamek/.local/share/color-schemes/ArchDark.colors</installedfile>
+  <installedfile>/home/airamek/.local/share/color-schemes/Arch.colors</installedfile>
+  <installedfile>/home/airamek/.local/share/color-schemes/ArchLight.colors</installedfile>
+  <installedfile>/home/airamek/.local/share/color-schemes/ArchManjaroDark.colors</installedfile>
+  <installedfile>/home/airamek/.local/share/color-schemes/ArchManjaroLight.colors</installedfile>
+  <id>1540593</id>
+  <releasedate>2021-06-18</releasedate>
+  <summary>An elegant collection of Simple Color Scheme for KDE </summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/e/1/a/3a16122b64431b8fcdd0812478b2d857b61bf34736aeed15a6590afc8b53edd07f3f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/e/1/a/3a16122b64431b8fcdd0812478b2d857b61bf34736aeed15a6590afc8b53edd07f3f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQwNDc3NTUiLCJvIjoiMSIsInMiOiJkNDI5ZDFjZGI4MmY5NGFlYzRhMjA2ZTdmYTE5NzM5NTA5MzY5ODgwMjM2OTEyODIzNzRiMzE4YTY3NDUwMzMzNjJkMDlmZGZkMDljNjcwOTczM2RkZjZiNWQ3MjRjMjdlZmJhNjZhY2E5MGMyYTVjMmQ3MmQ3ZGZlMDMzODIzZiIsInQiOjE2MjU1ODU1MTEsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.94g4Vo-3j2lG38RKdZFgFGLBz8geh9aw1XEgjkPocY0/Arch.tar.gz</payload>
+  <tags>theme,unix,plasma,original-product,arch,linux,colors,colorscheme,gplv2-later,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Infinity-Dark-Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436564</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>16642</downloads>
+  <installedfile>/home/airamek/.local/share/color-schemes/InfinityDarkColor.colors</installedfile>
+  <id>1436564</id>
+  <releasedate>2020-12-26</releasedate>
+  <summary>&lt;strong>Dark Colorsheme, customized for the Dark Plasma Theme &lt;span style="color: #08a19d;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1436579/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Colorsheme For Light Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Light-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436562/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #08a19d;"> &lt;strong>Starry Nebula 108 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1241434" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/7/5/3/766ec32140f74e426c5257de30f5a0fee8f2d05b1ca1d1baa20cc02e076a7362d138.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/7/5/3/766ec32140f74e426c5257de30f5a0fee8f2d05b1ca1d1baa20cc02e076a7362d138.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDkwMDQ0MjgiLCJvIjoiMSIsInMiOiI5ODU5YTlkMDAwZGJkZGE2MmI5NmRhNzA4MGQxM2JjZGVmYmNmMDE1NjMyY2JjNmQ0YWVmODU2NGRiYzdjYzg1MWYyNjgyYjk0N2E0MjczMmI0Nzg0ZTE2N2EwNjlhZTJkMzlkNjdmM2NjNDgxMjE4MWQwMmRhY2YwOGJlNjRiMCIsInQiOjE2MjU1ODU3NzUsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.YhRnmbCD6QTz2HxWBK4EM4_iZQyZkNiXb0GrA3oJ0LI/InfinityDarkColor.colors</payload>
+  <tags>original-product,plasma,unix,theme,kde,linux,gplv3,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Infinity-Light-Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436562</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>15776</downloads>
+  <installedfile>/home/airamek/.local/share/color-schemes/InfinityLightColor.colors</installedfile>
+  <id>1436562</id>
+  <releasedate>2020-12-26</releasedate>
+  <summary>&lt;strong>Light Colorsheme  For Light Plasma Themes &lt;br />
+&lt;br />
+Dark Colorsheme  For Dark  Plasma Themes &lt;span style="color: #006dda;"> &lt;strong>Infinity-Dark-Color&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436564/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Plasma-Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436542/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Infinity-Material-Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1436541/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #006dda;"> &lt;strong>Gently-Nebula-Noir Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1365306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+&lt;span style="color: #08a19d;"> &lt;strong> Plasma Desktop Wallpaper 1913 4K 2K HD&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1423864" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #08a19d;"> &lt;strong>Starry Nebula 108 4K Wallpaper&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1241434" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/4/8/4/632875a633fe956364def86196f36833cc69620d7d0b70d24bcf05c1e7b736fc8f58.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/4/8/4/632875a633fe956364def86196f36833cc69620d7d0b70d24bcf05c1e7b736fc8f58.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDkwMDQ2MTYiLCJvIjoiMSIsInMiOiIwZDc3ODJlM2YwYmFlMDQxMzgwYjFhNTdjYzkzYWI5ZTQxNDAwZDU1NGEzZjc1N2IwZTA1YWZkYjJiYmI1OTQxYzhlYWM1NzlhZWFmMDRhM2JmYTc5N2VkMDkxNzZhYjc2MmQ4Y2ZjNjJiMWRmNDNhOGQwOGMzNmVlNjlkNjM4ZiIsInQiOjE2MjU1ODU3NzgsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.k_GNHwyNEdiiPBJw_3Z1u-MIEHhkLRTNXRWQYEcnrf4/InfinityLightColor.colors</payload>
+  <tags>linux,colorscheme,gplv3,kde,theme,unix,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,16 @@
+{
+    "id": "890be8359ebb302d31162cd7ca3c6a41",
+    "metadata": {
+        "fullname": "xrandr-LG TV-16843009",
+        "name": "HDMI-A-0"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

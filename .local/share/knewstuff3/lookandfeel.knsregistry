@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Infinity-Global</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1436583</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>331</downloads>
+  <installedfile>/home/airamek/.local/share/plasma/look-and-feel/Infinity-Global</installedfile>
+  <id>1436583</id>
+  <releasedate>2021-07-01</releasedate>
+  <summary>&lt;strong>Dark Global Theme, Transparent and Blur.&lt;br />
+___________________________________________&lt;br />
+&lt;br />
+Dark Global Theme &lt;span style="color: #006dda;"> &lt;strong>Infinity-Solid-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1439913/" target="_blank" rel="nofollow">&lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/0/9/b/e53e97226a39a7026c246fb14bf1ff2f5bb3eafb4ffd07dcf12b04a66ea0ac9a5a0c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/0/9/b/e53e97226a39a7026c246fb14bf1ff2f5bb3eafb4ffd07dcf12b04a66ea0ac9a5a0c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjUxMjYzODIiLCJvIjoiMSIsInMiOiI0YTkwOGVmNTA2MmY2NDA1MDY1YzE4Zjg0OTU5NjEwNDY1NTExZGRlMDY1NmYzM2VkNmY5YTQ0MjY2OWY0ZDFjMWEwNjViODg4Yjc0NWI4NGJlZWVlYjg1ZDlmNDhmNWI2NjlmNjhlMWQzMmEyMjYxZTM4Y2Q0NDBjZjJjMzgzMiIsInQiOjE2MjU1ODU3NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.H2ThpCdt7f8OuAYHdmobfjMy4C911JeqQNJpWKd1pBI/Infinity-Global.tar.gz</payload>
+  <tags>original-product,plasma,theme,unix,linux,look-and-feel,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Arch</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1540630</homepage>
+  <licence></licence>
+  <version>1.0.1</version>
+  <rating>57</rating>
+  <downloads>7681</downloads>
+  <installedfile>/home/airamek/.local/share/plasma/look-and-feel/Arch</installedfile>
+  <id>1540630</id>
+  <releasedate>2021-06-21</releasedate>
+  <summary>Global theme for Arch with multiple effects.&lt;br />
+You'll need plasma 5.22 or above to enjoy full features like opaque/adaptive/translucent.&lt;br />
+To enable Glass effect go to settings -&amp;gt; Desktop Effects -&amp;gt; uncheck "Background Contrast"&lt;br />
+To disable Glass effect/change current theme go...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/1/8/6/95fd05ce442ff2cffa4e0bdbf59161a3fdf6e254c2da5d425d6d076a648bfa63d219.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/1/8/6/95fd05ce442ff2cffa4e0bdbf59161a3fdf6e254c2da5d425d6d076a648bfa63d219.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQyNzg2MTEiLCJvIjoiMSIsInMiOiIzOGFjYTY3YmM1YTExNWY5OWI5NmMyNjA0NmQ0MTQyMGI1YzVkYmJiODU1ZGZkODJjNmZmMDMwZDMxY2U0ZTY0N2Q1ZjM1NTdiNmZhNWQ0OWQ2ZWVjOGEzZTg2YWZlZmM4OTNmN2MwMDBmZGJkMDQxYzM1OTRlMjg1MjQ3MGIzYyIsInQiOjE2MjU1ODU1MDUsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.mIJ7Vc13JxiRFWxWc9Hho9JcwueTQIZhHK9jTFLCoB4/Arch.tar.gz</payload>
+  <tags>plasma,original-product,theme,unix,arch,linux,look-and-feel,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294729</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>5847</downloads>
+  <installedfile>/home/airamek/.local/share/plasma/look-and-feel/Sweet</installedfile>
+  <id>1294729</id>
+  <releasedate>2021-06-23</releasedate>
+  <summary>A dark and modern theme for Plasma&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/1/2/f/3281c8dcdaa5d4fdda7c5a1d600f722932573ff433ac153dd68a0cc7e8a418d54114.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/1/2/f/3281c8dcdaa5d4fdda7c5a1d600f722932573ff433ac153dd68a0cc7e8a418d54114.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQ0ODAzODEiLCJvIjoiMSIsInMiOiI2OWFlZDk0ODViNzhkODMyNDQzZmQzNjRlYzc3MTg3N2VlM2MxYjY5MGYxNzZiZTc2MmEyODk5MDI2YWVhMTkxNTg1ZTNlMDMzODkyNThmMzg4MjcwNTIyYzFkMmJjZWRkYjJkMzU0OGYyNDZlNThhY2YyNjM5MzRkNzYzOTU2NCIsInQiOjE2MjU0MjY5NzEsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.lKTaQY94deApsm8D8VKfEeHNyL4anqYTRokFTkNJl6w/Sweet.tar.xz</payload>
+  <tags>plasma,theme,unix,kde,gplv3,linux,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Sweet Mars KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393507</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>73</rating>
+  <downloads>7893</downloads>
+  <installedfile>/home/airamek/.local/share/plasma/look-and-feel/Sweet-Mars</installedfile>
+  <id>1393507</id>
+  <releasedate>2021-06-26</releasedate>
+  <summary>A dark and modern theme for Plasma&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet-Mars Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+This theme will install as dependencies:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1393498/" target="_blank" rel="nofollow">Sweet Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1393497/" target="_blank" rel="nofollow">Sweet-Mars Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1393486/" target="_blank" rel="nofollow">Sweet-Mars color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet-Mars Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1309907/" target="_blank" rel="nofollow">Sweet wallpaper&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to  my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/0/6/3/a641ce10ee44df46f0962983a36764aa842b8128ff45c2dcd3c2caebedd50837fe69.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/0/6/3/a641ce10ee44df46f0962983a36764aa842b8128ff45c2dcd3c2caebedd50837fe69.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQ3Mzc4ODQiLCJvIjoiMSIsInMiOiIxMWNmMDY0MmE0NzZjMzMyNDJlYWIxNDcyYTRlMzI0YzhlZDlmNDAyMzZlZWIzNmYxNjA3NjhkZjRkYzUzZWMwYzZhNDAyZThhZjkwODRiYzAyZDg4ODVmMDMwYjEyZmRiMDY4Mzk5NGQ5ODlhM2UzNTI2NjVkYWE1Yzc5YWFlNCIsInQiOjE2MjU1ODU1NzQsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.Oczz85YPrmUlX0DVLRsm_D-g4bzzhh4yIq-sEkZmoLc/Sweet-Mars.tar.xz</payload>
+  <tags>theme,unix,plasma,linux,look-and-feel,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

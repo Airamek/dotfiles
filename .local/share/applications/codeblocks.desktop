@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Development;IDE;GTK;
+Comment[en_US]=Configurable and extensible IDE
+Comment=Configurable and extensible IDE
+Exec=GTK_THEME=Sweet:light codeblocks %F
+GenericName[en_US]=Integrated development environment
+GenericName=Integrated development environment
+Icon=codeblocks
+MimeType=application/x-codeblocks-workspace;application/x-codeblocks;
+Name[en_US]=Code::Blocks IDE
+Name=Code::Blocks IDE
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-MultipleArgs=false

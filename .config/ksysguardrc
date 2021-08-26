@@ -1,0 +1,11 @@
+[MainWindow]
+CommandList=
+DisplayPort-0 DisplayPort-1 XPosition 1280x1024=300
+DisplayPort-0 DisplayPort-1 YPosition 1280x1024=364
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=0
+isMinimized=false

@@ -1,0 +1,66 @@
+18:36:01.675: CPU Name: AMD Ryzen 5 3600 6-Core Processor
+18:36:01.675: CPU Speed: 3600.000MHz
+18:36:01.675: Physical Cores: 6, Logical Cores: 12
+18:36:01.675: Physical Memory: 15919MB Total, 14473MB Free
+18:36:01.675: Kernel Version: Linux 5.13.12_1
+18:36:01.675: Distribution: "void" Unknown
+18:36:01.675: Session Type: X11
+18:36:01.675: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+18:36:01.675: Portable mode: false
+18:36:01.788: OBS 27.0.1 (linux)
+18:36:01.788: ---------------------------------
+18:36:01.892: ---------------------------------
+18:36:01.892: audio settings reset:
+18:36:01.892: 	samples per sec: 48000
+18:36:01.892: 	speakers:        2
+18:36:01.899: ---------------------------------
+18:36:01.899: Initializing OpenGL...
+18:36:01.942: Loading up OpenGL on adapter AMD AMD Radeon RX 5700 XT (NAVI10, DRM 3.41.0, 5.13.12_1, LLVM 12.0.0)
+18:36:01.942: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.7, shading language 4.60
+18:36:01.956: ---------------------------------
+18:36:01.956: video settings reset:
+18:36:01.956: 	base resolution:   1920x1080
+18:36:01.956: 	output resolution: 1280x720
+18:36:01.956: 	downscale filter:  Bicubic
+18:36:01.956: 	fps:               30/1
+18:36:01.956: 	format:            NV12
+18:36:01.956: 	YUV mode:          709/Partial
+18:36:01.956: NV12 texture support not available
+18:36:01.959: Audio monitoring device:
+18:36:01.959: 	name: Default
+18:36:01.959: 	id: default
+18:36:01.959: ---------------------------------
+18:36:01.960: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:36:01.961: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+18:36:02.052: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:36:02.052: No blackmagic support
+18:36:02.060: v4l2loopback not installed, virtual camera disabled
+18:36:02.077: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+18:36:02.077: 
+18:36:02.077: FFMPEG VAAPI supported
+18:36:02.092: VLC found, VLC video source enabled
+18:36:02.092: ---------------------------------
+18:36:02.092:   Loaded Modules:
+18:36:02.092:     vlc-video.so
+18:36:02.092:     text-freetype2.so
+18:36:02.092:     rtmp-services.so
+18:36:02.092:     obs-x264.so
+18:36:02.092:     obs-transitions.so
+18:36:02.092:     obs-outputs.so
+18:36:02.092:     obs-libfdk.so
+18:36:02.092:     obs-filters.so
+18:36:02.092:     obs-ffmpeg.so
+18:36:02.092:     linux-v4l2.so
+18:36:02.092:     linux-pulseaudio.so
+18:36:02.092:     linux-jack.so
+18:36:02.092:     linux-decklink.so
+18:36:02.092:     linux-capture.so
+18:36:02.092:     linux-alsa.so
+18:36:02.092:     image-source.so
+18:36:02.092:     frontend-tools.so
+18:36:02.092:     decklink-ouput-ui.so
+18:36:02.092:     decklink-captions.so
+18:36:02.092: ---------------------------------
+18:36:02.092: ==== Startup complete ===============================================
+18:36:02.096: All scene data cleared
+18:36:02.096: ------------------------------------------------

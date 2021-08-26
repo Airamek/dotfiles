@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/MindenMas/stuff/slack/ReRAID" added="2021-07-09T01:49:50.192168Z" modified="2021-08-22T23:45:58.497875Z" visited="2021-07-09T01:49:50.192168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-08-22T23:45:58.497874Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/MindenMas/stuff/slack/dev/runit/void-runit" added="2021-07-27T16:21:45.072867Z" modified="2021-07-30T23:23:06.951955Z" visited="2021-07-27T16:21:45.072868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-07-30T23:23:06.951953Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/dietlibc-0.34.tar.xz" added="2021-07-28T16:46:57.016462Z" modified="2021-07-28T16:46:57.016468Z" visited="2021-07-28T16:46:57.016463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-28T16:46:57.016465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/linux-4.4.277.tar.xz" added="2021-07-29T12:37:18.566475Z" modified="2021-07-29T12:37:18.566482Z" visited="2021-07-29T12:37:18.566475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-29T12:37:18.566478Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/linux-4.19.199.tar.xz" added="2021-07-29T12:42:57.582355Z" modified="2021-07-29T12:42:57.582360Z" visited="2021-07-29T12:42:57.582356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-29T12:42:57.582358Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64.zip" added="2021-07-29T19:22:13.216144Z" modified="2021-07-29T19:22:13.216156Z" visited="2021-07-29T19:22:13.216146Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-29T19:22:13.216150Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz" added="2021-07-29T19:45:36.516585Z" modified="2021-08-20T03:15:46.154215Z" visited="2021-07-29T19:45:36.516586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-08-20T03:15:46.154212Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/customized-theme.zip" added="2021-07-31T02:38:23.548200Z" modified="2021-07-31T02:38:23.548203Z" visited="2021-07-31T02:38:23.548201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-31T02:38:23.548201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/.config/codeblocks/default.conf" added="2021-07-31T02:45:14.380848Z" modified="2021-07-31T02:45:49.089672Z" visited="2021-07-31T02:45:14.380848Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="cb_share_config" exec="&apos;cb_share_config %u&apos;" modified="2021-07-31T02:45:49.089671Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/customized-theme/theme.conf" added="2021-07-31T02:45:46.386042Z" modified="2021-07-31T02:45:46.386045Z" visited="2021-07-31T02:45:46.386043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="cb_share_config" exec="&apos;cb_share_config %u&apos;" modified="2021-07-31T02:45:46.386043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/dev/cb_test1" added="2021-07-31T02:47:42.985794Z" modified="2021-07-31T02:47:58.880226Z" visited="2021-07-31T02:47:42.985795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2021-07-31T02:47:58.880224Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/dev/cb_test1/test/test.cbp" added="2021-07-31T02:48:02.113090Z" modified="2021-07-31T02:48:02.113092Z" visited="2021-07-31T02:48:02.113090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-codeblocks"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2021-07-31T02:48:02.113091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/dev" added="2021-07-31T02:48:58.471217Z" modified="2021-07-31T02:48:58.471222Z" visited="2021-07-31T02:48:58.471218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2021-07-31T02:48:58.471219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/dev/test/test.cbp" added="2021-07-31T02:49:01.370299Z" modified="2021-08-01T10:34:19.218111Z" visited="2021-07-31T02:49:01.370300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-codeblocks"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2021-08-01T10:34:19.218110Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/dev/test/main.c" added="2021-07-31T02:49:19.397331Z" modified="2021-07-31T02:49:19.397333Z" visited="2021-07-31T02:49:19.397331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2021-07-31T02:49:19.397332Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/slackware64-14.2-install-dvd.torrent" added="2021-08-01T11:56:32.702350Z" modified="2021-08-01T11:56:32.702356Z" visited="2021-08-01T11:56:32.702351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-01T11:56:32.702353Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/docker.tar.gz" added="2021-08-01T17:28:49.525459Z" modified="2021-08-01T17:28:49.525466Z" visited="2021-08-01T17:28:49.525460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-01T17:28:49.525462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/runit.pdf" added="2021-08-01T18:15:05.133952Z" modified="2021-08-01T18:15:05.133961Z" visited="2021-08-01T18:15:05.133953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-01T18:15:05.133956Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/haveged-1.9.2.tar.gz" added="2021-08-01T21:47:46.249553Z" modified="2021-08-01T21:59:31.601476Z" visited="2021-08-01T21:47:46.249554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-01T21:59:31.601472Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/haveged.tar.gz" added="2021-08-01T21:58:40.352371Z" modified="2021-08-01T21:58:40.352383Z" visited="2021-08-01T21:58:40.352373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-01T21:58:40.352377Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/haveged-1.9.2(1).tar.gz" added="2021-08-01T21:59:33.608183Z" modified="2021-08-01T21:59:33.608190Z" visited="2021-08-01T21:59:33.608184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-01T21:59:33.608186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/test.sh" added="2021-08-03T20:08:00.699122Z" modified="2021-08-03T20:08:00.699125Z" visited="2021-08-03T20:08:00.699123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-08-03T20:08:00.699123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/universe_galaxy_multicolored_125246_1920x1080.jpg" added="2021-08-09T04:35:12.863515Z" modified="2021-08-09T04:35:13.159884Z" visited="2021-08-09T04:35:12.863516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T04:35:13.159880Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/bg/line_glitter_glare_dark_95089_1920x1080.jpg" added="2021-08-09T04:37:13.458673Z" modified="2021-08-09T04:37:13.762075Z" visited="2021-08-09T04:37:13.458674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T04:37:13.762071Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/bg/retro_wallp.jpg" added="2021-08-09T04:42:18.987828Z" modified="2021-08-09T04:42:19.284355Z" visited="2021-08-09T04:42:18.987830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T04:42:19.284351Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/bg/wallhaven-night.jpg" added="2021-08-09T04:58:04.445923Z" modified="2021-08-09T04:58:06.102429Z" visited="2021-08-09T04:58:04.445924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T04:58:06.102425Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/bg/fantasy-art-colorful-hd.jpg" added="2021-08-09T05:00:48.491120Z" modified="2021-08-09T05:00:48.777449Z" visited="2021-08-09T05:00:48.491120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T05:00:48.777445Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/bg/ismail-inceoglu-chaos-invoked.jpg" added="2021-08-09T05:02:46.582793Z" modified="2021-08-09T05:02:46.885365Z" visited="2021-08-09T05:02:46.582794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T05:02:46.885353Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/stuff/bg/alone.jpg" added="2021-08-09T05:03:10.177999Z" modified="2021-08-09T05:03:10.464529Z" visited="2021-08-09T05:03:10.178000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-09T05:03:10.464526Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/%5BnCore%5D%5Bxvidser%5DSteins.Gate.S01.REPACK.BDRIP.x264-Krissz.torrent" added="2021-08-21T10:53:11.760520Z" modified="2021-08-21T10:53:11.760527Z" visited="2021-08-21T10:53:11.760521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-21T10:53:11.760523Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/%5BnCore%5D%5Bhdser%5DSteinsGate_0_S01_720p.torrent" added="2021-08-21T11:02:44.285143Z" modified="2021-08-21T11:02:44.285150Z" visited="2021-08-21T11:02:44.285144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-21T11:02:44.285146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/MindenMas/stuff/Media/Anime/[Cerberus] Steins;Gate + Steins;Gate 0 +  Special + Movie [BD 1080p HEVC 10-bit AAC]/Steins;Gate 0/Steins;Gate 0 0x23 (B).mkv" added="2021-08-21T11:28:52.420482Z" modified="2021-08-21T11:28:52.420489Z" visited="2021-08-21T11:28:52.420483Z">
+    <title>Steins;Gate 0 0x23 (B) - Steins;Gate 0 0x23 (B).mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-mplayer" exec="&apos;gnome-mplayer %u&apos;" modified="2021-08-21T11:28:52.420486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/vmware/Re:RAID/Re:RAID.vmx" added="2021-08-22T22:51:07.491054Z" modified="2021-08-22T22:52:22.717982Z" visited="2021-08-22T22:51:07.491054Z">
+    <title>Re:RAID</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-vmware-vm"/>
+        <bookmark:applications>
+          <bookmark:application name="VMware Player" exec="&apos;vmplayer %u&apos;" modified="2021-08-22T22:52:22.717980Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/MindenMas/stuff/slack/ReRAID/reraid-live.img" added="2021-08-22T22:52:00.128968Z" modified="2021-08-22T22:52:00.128973Z" visited="2021-08-22T22:52:00.128969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="vmplayer" exec="&apos;vmplayer %u&apos;" modified="2021-08-22T22:52:00.128970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/wsdd2-1.8.3.2.tar.gz" added="2021-08-23T10:41:00.429636Z" modified="2021-08-23T10:41:00.429644Z" visited="2021-08-23T10:41:00.429638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-23T10:41:00.429640Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/wsdd2.tar.gz" added="2021-08-23T10:41:35.887587Z" modified="2021-08-23T10:41:35.887594Z" visited="2021-08-23T10:41:35.887588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-23T10:41:35.887590Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/MindenMas/stuff/slack/dev/networkmanager" added="2021-08-23T16:31:01.711281Z" modified="2021-08-23T16:31:01.711286Z" visited="2021-08-23T16:31:01.711282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-08-23T16:31:01.711284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/Airamek&apos;s%20skin%20mashup%20v2.osk" added="2021-08-23T20:50:18.480131Z" modified="2021-08-23T20:50:18.480137Z" visited="2021-08-23T20:50:18.480132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-23T20:50:18.480134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/winepulse.drv.so" added="2021-08-23T21:50:39.307548Z" modified="2021-08-23T21:53:34.343324Z" visited="2021-08-23T21:50:39.307549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sharedlib"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-23T21:53:34.343320Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/winepulse.drv(1).so" added="2021-08-23T21:52:15.292527Z" modified="2021-08-23T21:52:15.292549Z" visited="2021-08-23T21:52:15.292533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sharedlib"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-23T21:52:15.292540Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/airamek/Downloads/haveged(1).tar.gz" added="2021-08-25T22:40:45.311095Z" modified="2021-08-25T22:40:45.311101Z" visited="2021-08-25T22:40:45.311096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-25T22:40:45.311098Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

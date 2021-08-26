@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=run
+Type=Link
+URL[$e]=file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/run
+X-KDE-LastOpenedWith=code-oss

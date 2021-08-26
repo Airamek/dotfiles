@@ -1,0 +1,21 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=lutris
+count=1
+
+[Session: saved at previous logout]
+clientId1=10766f6964000162937098900000016340005
+clientId2=10766f6964000162992980000000016120004
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10766f6964000162992980000000016120004_1629940743_865540
+program1=firefox
+program2=/bin/dolphin
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10766f6964000162937098900000016340005
+restartCommand2=/bin/dolphin,-session,10766f6964000162992980000000016120004_1629940743_865540
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=airamek
+userId2=airamek

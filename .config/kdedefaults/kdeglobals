@@ -1,0 +1,8 @@
+[General]
+ColorScheme=InfinityDarkColor
+
+[Icons]
+Theme=Infinity-Dark-Icons
+
+[KDE]
+widgetStyle=Breeze

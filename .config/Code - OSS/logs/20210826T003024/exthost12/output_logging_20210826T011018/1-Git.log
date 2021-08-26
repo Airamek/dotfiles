@@ -1,0 +1,90 @@
+Validating found git in: git
+Using git 2.33.0 from git
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/00-pseudofs.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/01-static-devnodes.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/02-kmods.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/02-udev.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/03-console-setup.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/03-filesystems.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/04-swap.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/05-misc.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/08-sysctl.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/09-reraid-shenanigans.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/99-cleanup.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "enabled": true,
+        "id": "0f578427db7467bd1bb38406d236597b",
+        "metadata": {
+            "fullname": "xrandr-24G2W1G5-3203",
+            "name": "DisplayPort-0"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 1280,
+            "y": 1080
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "9fd5c0bd054d3eb4278fe728a397adb0",
+        "metadata": {
+            "fullname": "xrandr-DELL 1707FP-CC282692BMSL",
+            "name": "DisplayPort-1"
+        },
+        "mode": {
+            "refresh": 60.01974105834961,
+            "size": {
+                "height": 1024,
+                "width": 1280
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 1108
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "890be8359ebb302d31162cd7ca3c6a41",
+        "metadata": {
+            "fullname": "xrandr-LG TV-16843009",
+            "name": "HDMI-A-0"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 1279,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    }
+]

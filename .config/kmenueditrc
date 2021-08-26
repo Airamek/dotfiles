@@ -1,0 +1,10 @@
+[General]
+SplitterSizes=462,634
+
+[MainWindow]
+DisplayPort-0 DisplayPort-1 Height 1920x1080=418
+DisplayPort-0 DisplayPort-1 Width 1920x1080=1107
+DisplayPort-0 DisplayPort-1 XPosition 1920x1080=1284
+DisplayPort-0 DisplayPort-1 YPosition 1920x1080=28
+State=AAAA/wAAAAD9AAAAAAAABFMAAAFWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

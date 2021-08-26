@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=05-misc.sh
+Type=Link
+URL[$e]=file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/05-misc.sh
+X-KDE-LastOpenedWith=code-oss

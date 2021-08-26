@@ -1,0 +1,316 @@
+22:59:39.995: CPU Name: AMD Ryzen 5 3600 6-Core Processor
+22:59:39.995: CPU Speed: 2200.000MHz
+22:59:39.995: Physical Cores: 6, Logical Cores: 12
+22:59:39.995: Physical Memory: 15984MB Total, 6423MB Free
+22:59:39.995: Kernel Version: Linux 5.12.19_1
+22:59:39.995: Distribution: "void" Unknown
+22:59:39.995: Session Type: X11
+22:59:39.995: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+22:59:39.996: Portable mode: false
+22:59:40.093: OBS 27.0.1 (linux)
+22:59:40.093: ---------------------------------
+22:59:40.093: ---------------------------------
+22:59:40.093: audio settings reset:
+22:59:40.093: 	samples per sec: 48000
+22:59:40.093: 	speakers:        2
+22:59:40.097: ---------------------------------
+22:59:40.097: Initializing OpenGL...
+22:59:40.166: Loading up OpenGL on adapter AMD AMD Radeon RX 5700 XT (NAVI10, DRM 3.40.0, 5.12.19_1, LLVM 12.0.0)
+22:59:40.166: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.6, shading language 4.60
+22:59:40.209: ---------------------------------
+22:59:40.209: video settings reset:
+22:59:40.209: 	base resolution:   1920x1080
+22:59:40.209: 	output resolution: 1280x720
+22:59:40.209: 	downscale filter:  Bicubic
+22:59:40.209: 	fps:               30/1
+22:59:40.209: 	format:            NV12
+22:59:40.209: 	YUV mode:          709/Partial
+22:59:40.209: NV12 texture support not available
+22:59:40.211: Audio monitoring device:
+22:59:40.211: 	name: Default
+22:59:40.211: 	id: default
+22:59:40.211: ---------------------------------
+22:59:40.212: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:59:40.214: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+22:59:40.294: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:59:40.294: No blackmagic support
+22:59:40.301: v4l2loopback not installed, virtual camera disabled
+22:59:40.315: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+22:59:40.315: 
+22:59:40.315: FFMPEG VAAPI supported
+22:59:40.330: VLC found, VLC video source enabled
+22:59:40.330: ---------------------------------
+22:59:40.330:   Loaded Modules:
+22:59:40.330:     vlc-video.so
+22:59:40.330:     text-freetype2.so
+22:59:40.330:     rtmp-services.so
+22:59:40.330:     obs-x264.so
+22:59:40.330:     obs-transitions.so
+22:59:40.330:     obs-outputs.so
+22:59:40.330:     obs-libfdk.so
+22:59:40.330:     obs-filters.so
+22:59:40.330:     obs-ffmpeg.so
+22:59:40.330:     linux-v4l2.so
+22:59:40.330:     linux-pulseaudio.so
+22:59:40.330:     linux-jack.so
+22:59:40.330:     linux-decklink.so
+22:59:40.330:     linux-capture.so
+22:59:40.330:     linux-alsa.so
+22:59:40.330:     image-source.so
+22:59:40.330:     frontend-tools.so
+22:59:40.330:     decklink-ouput-ui.so
+22:59:40.330:     decklink-captions.so
+22:59:40.330: ---------------------------------
+22:59:40.330: ==== Startup complete ===============================================
+22:59:40.333: All scene data cleared
+22:59:40.333: ------------------------------------------------
+22:59:40.338: pulse-input: Server name: 'pulseaudio 14.2'
+22:59:40.338: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+22:59:40.338: pulse-input: Started recording from 'alsa_output.usb-Razer_Razer_Nari-00.analog-game.monitor'
+22:59:40.338: [Loaded global audio device]: 'Desktop Audio'
+22:59:40.338: pulse-input: Server name: 'pulseaudio 14.2'
+22:59:40.338: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+22:59:40.338: pulse-input: Started recording from 'alsa_input.usb-Razer_Razer_Nari-00.analog-chat'
+22:59:40.338: [Loaded global audio device]: 'Mic/Aux'
+22:59:40.345: Switched to scene 'vbox-debug'
+22:59:40.346: ------------------------------------------------
+22:59:40.346: Loaded scenes:
+22:59:40.346: - scene 'Scene':
+22:59:40.346: - scene 'vbox-debug':
+22:59:40.346:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+22:59:40.346: ------------------------------------------------
+22:59:40.891: [rtmp-services plugin] Successfully updated file 'services.json' (version 180)
+22:59:40.891: [rtmp-services plugin] Successfully updated package (version 180)
+22:59:40.894: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+22:59:40.894: 
+23:00:06.687: User added source 'qemu' (xcomposite_input) to scene 'vbox-debug'
+23:00:06.770: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:06.770: 	title: Desktop — Plasma
+23:00:06.770: 	class: plasmashell
+23:00:06.770: 	Bit depth: 32
+23:00:06.770: 	Found proper GLXFBConfig (in 368): yes
+23:00:06.770: 
+23:00:07.313: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:07.313: 	title: Desktop — Plasma
+23:00:07.313: 	class: plasmashell
+23:00:07.313: 	Bit depth: 32
+23:00:07.313: 	Found proper GLXFBConfig (in 368): yes
+23:00:07.313: 
+23:00:11.946: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:11.946: 	title: QEMU
+23:00:11.946: 	class: qemu
+23:00:11.946: 	Bit depth: 24
+23:00:11.946: 	Found proper GLXFBConfig (in 368): yes
+23:00:11.946: 
+23:00:12.413: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:12.413: 	title: QEMU
+23:00:12.413: 	class: qemu
+23:00:12.413: 	Bit depth: 24
+23:00:12.413: 	Found proper GLXFBConfig (in 368): yes
+23:00:12.413: 
+23:00:36.811: ---------------------------------
+23:00:36.811: [FFMPEG VAAPI encoder: 'streaming_h264'] settings:
+23:00:36.811: 	device:       /dev/dri/renderD128
+23:00:36.811: 	rate_control: CBR
+23:00:36.811: 	profile:      578
+23:00:36.811: 	level:        40
+23:00:36.811: 	qp:           0
+23:00:36.811: 	bitrate:      2500
+23:00:36.811: 	maxrate:      2500
+23:00:36.811: 	keyint:       120
+23:00:36.811: 	width:        1280
+23:00:36.811: 	height:       720
+23:00:36.811: 	b-frames:     0
+23:00:36.811: 
+23:00:36.825: libfdk_aac encoder created
+23:00:36.825: libfdk_aac bitrate: 160, channels: 2
+23:00:36.828: ==== Recording Start ===============================================
+23:00:36.828: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/airamek/Videos/obs/2021-08-22 23-00-36.mkv'...
+23:00:40.113: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:40.113: 	title: QEMU
+23:00:40.113: 	class: qemu
+23:00:40.113: 	Bit depth: 24
+23:00:40.113: 	Found proper GLXFBConfig (in 368): yes
+23:00:40.113: 
+23:00:56.280: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:56.280: 	title: QEMU
+23:00:56.280: 	class: qemu
+23:00:56.280: 	Bit depth: 24
+23:00:56.280: 	Found proper GLXFBConfig (in 368): yes
+23:00:56.280: 
+23:00:58.779: xcompcap: [window-capture: 'qemu'] update settings:
+23:00:58.779: 	title: QEMU
+23:00:58.779: 	class: qemu
+23:00:58.779: 	Bit depth: 24
+23:00:58.779: 	Found proper GLXFBConfig (in 368): yes
+23:00:58.779: 
+23:01:00.654: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/airamek/Videos/obs/2021-08-22 23-00-36.mkv' stopped
+23:01:00.654: Output 'adv_file_output': stopping
+23:01:00.654: Output 'adv_file_output': Total frames output: 712
+23:01:00.654: Output 'adv_file_output': Total drawn frames: 715
+23:01:00.655: ==== Recording Stop ================================================
+23:01:00.657: libfdk_aac encoder destroyed
+23:01:01.052: ---------------------------------
+23:01:01.052: [FFMPEG VAAPI encoder: 'streaming_h264'] settings:
+23:01:01.052: 	device:       /dev/dri/renderD128
+23:01:01.052: 	rate_control: CBR
+23:01:01.052: 	profile:      578
+23:01:01.052: 	level:        40
+23:01:01.052: 	qp:           0
+23:01:01.052: 	bitrate:      2500
+23:01:01.052: 	maxrate:      2500
+23:01:01.052: 	keyint:       120
+23:01:01.052: 	width:        1280
+23:01:01.052: 	height:       720
+23:01:01.052: 	b-frames:     0
+23:01:01.052: 
+23:01:01.060: libfdk_aac encoder created
+23:01:01.060: libfdk_aac bitrate: 160, channels: 2
+23:01:01.062: ==== Recording Start ===============================================
+23:01:01.062: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/airamek/Videos/obs/2021-08-22 23-01-01.mkv'...
+23:01:03.146: xcompcap: [window-capture: 'qemu'] update settings:
+23:01:03.146: 	title: QEMU
+23:01:03.146: 	class: qemu
+23:01:03.146: 	Bit depth: 24
+23:01:03.146: 	Found proper GLXFBConfig (in 368): yes
+23:01:03.146: 
+23:01:35.158: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/airamek/Videos/obs/2021-08-22 23-01-01.mkv' stopped
+23:01:35.158: Output 'adv_file_output': stopping
+23:01:35.158: Output 'adv_file_output': Total frames output: 1019
+23:01:35.158: Output 'adv_file_output': Total drawn frames: 1022 (1023 attempted)
+23:01:35.158: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0,1%)
+23:01:35.159: ==== Recording Stop ================================================
+23:01:35.161: libfdk_aac encoder destroyed
+00:24:38.513: xcompcap: [window-capture: 'qemu'] update settings:
+00:24:38.513: 	title: QEMU
+00:24:38.513: 	class: qemu
+00:24:38.513: 	Bit depth: 24
+00:24:38.513: 	Found proper GLXFBConfig (in 368): yes
+00:24:38.513: 
+00:24:44.079: xcompcap: [window-capture: 'qemu'] update settings:
+00:24:44.079: 	title: QEMU
+00:24:44.079: 	class: qemu
+00:24:44.079: 	Bit depth: 24
+00:24:44.079: 	Found proper GLXFBConfig (in 368): yes
+00:24:44.079: 
+00:27:02.412: ---------------------------------
+00:27:02.412: [FFMPEG VAAPI encoder: 'streaming_h264'] settings:
+00:27:02.412: 	device:       /dev/dri/renderD128
+00:27:02.412: 	rate_control: CBR
+00:27:02.412: 	profile:      578
+00:27:02.412: 	level:        40
+00:27:02.412: 	qp:           0
+00:27:02.412: 	bitrate:      2500
+00:27:02.412: 	maxrate:      2500
+00:27:02.412: 	keyint:       120
+00:27:02.412: 	width:        1280
+00:27:02.412: 	height:       720
+00:27:02.412: 	b-frames:     0
+00:27:02.412: 
+00:27:02.421: libfdk_aac encoder created
+00:27:02.421: libfdk_aac bitrate: 160, channels: 2
+00:27:02.423: ==== Recording Start ===============================================
+00:27:02.423: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/airamek/Videos/obs/2021-08-23 00-27-02.mkv'...
+00:27:29.533: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/airamek/Videos/obs/2021-08-23 00-27-02.mkv' stopped
+00:27:29.533: Output 'adv_file_output': stopping
+00:27:29.533: Output 'adv_file_output': Total frames output: 809
+00:27:29.533: Output 'adv_file_output': Total drawn frames: 813
+00:27:29.533: ==== Recording Stop ================================================
+00:27:29.535: libfdk_aac encoder destroyed
+00:33:20.514: xcompcap: [window-capture: 'qemu'] update settings:
+00:33:20.514: 	title: QEMU
+00:33:20.514: 	class: qemu
+00:33:20.514: 	Bit depth: 24
+00:33:20.514: 	Found proper GLXFBConfig (in 368): yes
+00:33:20.514: 
+00:33:39.213: xcompcap: [window-capture: 'qemu'] update settings:
+00:33:39.213: 	title: QEMU
+00:33:39.213: 	class: qemu
+00:33:39.213: 	Bit depth: 24
+00:33:39.213: 	Found proper GLXFBConfig (in 368): yes
+00:33:39.213: 
+00:36:11.593: X Error: BadWindow (invalid Window parameter), Major opcode: BadWindow (invalid Window parameter), Minor opcode: 0, Serial: 1121911
+00:37:29.479: xcompcap: [window-capture: 'qemu'] update settings:
+00:37:29.479: 	title: QEMU
+00:37:29.479: 	class: qemu
+00:37:29.479: 	Bit depth: 24
+00:37:29.479: 	Found proper GLXFBConfig (in 368): yes
+00:37:29.479: 
+00:40:57.358: ==== Shutting down ==================================================
+00:40:57.360: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 1187604
+00:40:57.360: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 1187605
+00:40:57.360: pulse-input: Stopped recording from 'alsa_output.usb-Razer_Razer_Nari-00.analog-game.monitor'
+00:40:57.360: pulse-input: Got 785678 packets with 291694401 frames
+00:40:57.360: pulse-input: Stopped recording from 'alsa_input.usb-Razer_Razer_Nari-00.analog-chat'
+00:40:57.360: pulse-input: Got 610166 packets with 267996009 frames
+00:40:57.361: All scene data cleared
+00:40:57.361: ------------------------------------------------
+00:40:57.418: [Scripting] Total detached callbacks: 0
+00:40:57.428: Freeing OBS context data
+00:40:57.444: == Profiler Results =============================
+00:40:57.444: run_program_init: 521,329 ms
+00:40:57.444:  ┣OBSApp::AppInit: 5,884 ms
+00:40:57.444:  ┃ ┗OBSApp::InitLocale: 1,465 ms
+00:40:57.444:  ┗OBSApp::OBSInit: 467,422 ms
+00:40:57.444:    ┣obs_startup: 12,671 ms
+00:40:57.444:    ┗OBSBasic::OBSInit: 357,166 ms
+00:40:57.444:      ┣OBSBasic::InitBasicConfig: 0,055 ms
+00:40:57.444:      ┣OBSBasic::ResetAudio: 0,097 ms
+00:40:57.444:      ┣OBSBasic::ResetVideo: 117,905 ms
+00:40:57.444:      ┣OBSBasic::InitOBSCallbacks: 0,004 ms
+00:40:57.444:      ┣OBSBasic::InitHotkeys: 0,033 ms
+00:40:57.444:      ┣obs_load_all_modules: 118,519 ms
+00:40:57.444:      ┃ ┣obs_init_module(decklink-captions.so): 0,022 ms
+00:40:57.444:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0,398 ms
+00:40:57.444:      ┃ ┣obs_init_module(frontend-tools.so): 68,953 ms
+00:40:57.444:      ┃ ┣obs_init_module(image-source.so): 0,004 ms
+00:40:57.444:      ┃ ┣obs_init_module(linux-alsa.so): 0,001 ms
+00:40:57.444:      ┃ ┣obs_init_module(linux-capture.so): 0,164 ms
+00:40:57.444:      ┃ ┣obs_init_module(linux-decklink.so): 0,081 ms
+00:40:57.444:      ┃ ┣obs_init_module(linux-jack.so): 0,001 ms
+00:40:57.444:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0,001 ms
+00:40:57.444:      ┃ ┣obs_init_module(linux-v4l2.so): 1,312 ms
+00:40:57.444:      ┃ ┣obs_init_module(obs-ffmpeg.so): 2,558 ms
+00:40:57.444:      ┃ ┃ ┗nvenc_check: 2,546 ms
+00:40:57.444:      ┃ ┣obs_init_module(obs-filters.so): 0,013 ms
+00:40:57.444:      ┃ ┣obs_init_module(obs-libfdk.so): 0 ms
+00:40:57.444:      ┃ ┣obs_init_module(obs-outputs.so): 0,001 ms
+00:40:57.444:      ┃ ┣obs_init_module(obs-transitions.so): 0,006 ms
+00:40:57.444:      ┃ ┣obs_init_module(obs-x264.so): 0,001 ms
+00:40:57.444:      ┃ ┣obs_init_module(rtmp-services.so): 0,821 ms
+00:40:57.444:      ┃ ┣obs_init_module(text-freetype2.so): 0,007 ms
+00:40:57.444:      ┃ ┗obs_init_module(vlc-video.so): 2,307 ms
+00:40:57.444:      ┣OBSBasic::ResetOutputs: 0,09 ms
+00:40:57.444:      ┣OBSBasic::CreateHotkeys: 0,025 ms
+00:40:57.444:      ┣OBSBasic::InitService: 1,346 ms
+00:40:57.444:      ┣OBSBasic::InitPrimitives: 0,069 ms
+00:40:57.444:      ┗OBSBasic::Load: 14,424 ms
+00:40:57.444: obs_hotkey_thread(25 ms): min=0,03 ms, median=0,086 ms, max=152,536 ms, 99th percentile=0,175 ms, 99,9839% below 25 ms
+00:40:57.444: audio_thread(Audio): min=0 ms, median=0,047 ms, max=3,908 ms, 99th percentile=0,131 ms
+00:40:57.444:  ┗receive_audio: min=0,001 ms, median=0,09 ms, max=3,826 ms, 99th percentile=0,15 ms, 0,0138433 calls per parent call
+00:40:57.444:    ┣buffer_audio: min=0 ms, median=0 ms, max=0,031 ms, 99th percentile=0,001 ms
+00:40:57.444:    ┗do_encode: min=0,038 ms, median=0,088 ms, max=3,824 ms, 99th percentile=0,147 ms
+00:40:57.444:      ┗encode(Track1): min=0,037 ms, median=0,081 ms, max=0,176 ms, 99th percentile=0,131 ms
+00:40:57.444: obs_graphics_thread(33,3333 ms): min=0,101 ms, median=0,29 ms, max=152,613 ms, 99th percentile=1,458 ms, 99,9835% below 33,333 ms
+00:40:57.444:  ┣tick_sources: min=0 ms, median=0,057 ms, max=152,056 ms, 99th percentile=1,053 ms
+00:40:57.444:  ┣output_frame: min=0,024 ms, median=0,06 ms, max=21,022 ms, 99th percentile=0,883 ms
+00:40:57.444:  ┃ ┣gs_context(video->graphics): min=0,024 ms, median=0,059 ms, max=21,022 ms, 99th percentile=0,713 ms
+00:40:57.444:  ┃ ┃ ┣render_video: min=0,006 ms, median=0,017 ms, max=21,009 ms, 99th percentile=0,701 ms
+00:40:57.444:  ┃ ┃ ┃ ┣render_main_texture: min=0,006 ms, median=0,015 ms, max=1,044 ms, 99th percentile=0,065 ms
+00:40:57.445:  ┃ ┃ ┃ ┣render_output_texture: min=0,008 ms, median=0,017 ms, max=6,129 ms, 99th percentile=0,046 ms, 0,0139878 calls per parent call
+00:40:57.445:  ┃ ┃ ┃ ┣render_convert_texture: min=0,011 ms, median=0,024 ms, max=2,952 ms, 99th percentile=0,049 ms, 0,0139878 calls per parent call
+00:40:57.445:  ┃ ┃ ┃ ┗stage_output_texture: min=0,481 ms, median=0,636 ms, max=11,876 ms, 99th percentile=1,129 ms, 0,0139878 calls per parent call
+00:40:57.445:  ┃ ┃ ┣gs_flush: min=0 ms, median=0,036 ms, max=5,514 ms, 99th percentile=0,069 ms
+00:40:57.445:  ┃ ┃ ┗download_frame: min=0 ms, median=0,003 ms, max=0,042 ms, 99th percentile=0,007 ms, 0,0139878 calls per parent call
+00:40:57.445:  ┃ ┗output_video_data: min=0,097 ms, median=0,169 ms, max=0,414 ms, 99th percentile=0,273 ms, 0,0139713 calls per parent call
+00:40:57.445:  ┗render_displays: min=0,002 ms, median=0,147 ms, max=80,916 ms, 99th percentile=0,306 ms
+00:40:57.445: video_thread(video): min=2,409 ms, median=3,135 ms, max=13,909 ms, 99th percentile=3,738 ms
+00:40:57.445:  ┗receive_video: min=2,408 ms, median=3,134 ms, max=13,908 ms, 99th percentile=3,733 ms
+00:40:57.445:    ┗do_encode: min=2,407 ms, median=3,132 ms, max=13,906 ms, 99th percentile=3,732 ms
+00:40:57.445:      ┗encode(streaming_h264): min=2,402 ms, median=3,126 ms, max=13,9 ms, 99th percentile=3,726 ms
+00:40:57.445: =================================================
+00:40:57.445: == Profiler Time Between Calls ==================
+00:40:57.445: obs_hotkey_thread(25 ms): min=25,046 ms, median=25,145 ms, max=177,595 ms, 99,9089% within ±2% of 25 ms (0% lower, 0,0910762% higher)
+00:40:57.445: obs_graphics_thread(33,3333 ms): min=0,179 ms, median=33,333 ms, max=152,617 ms, 99,9682% within ±2% of 33,333 ms (0,0159078% lower, 0,0159078% higher)
+00:40:57.445: =================================================
+00:40:57.475: Number of memory leaks: 1

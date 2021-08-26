@@ -1,0 +1,132 @@
+00:00:00.000574 main     VirtualBox XPCOM Server 6.1.20 r143896 linux.amd64 (Apr 30 2021 15:24:58) release log
+00:00:00.000576 main     Log opened 2021-08-03T00:57:33.750191000Z
+00:00:00.000576 main     Build Type: release
+00:00:00.000579 main     OS Product: Linux
+00:00:00.000579 main     OS Release: 5.12.19_1
+00:00:00.000580 main     OS Version: #1 SMP 1626835473
+00:00:00.000599 main     DMI Product Name: System Product Name
+00:00:00.000604 main     DMI Product Version: System Version
+00:00:00.000609 main     Firmware type: UEFI
+00:00:00.000671 main     Secure Boot: Disabled
+00:00:00.000699 main     Host RAM: 15984MB (15.6GB) total, 11823MB (11.5GB) available
+00:00:00.000702 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000703 main     Process ID: 30598
+00:00:00.000703 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001833 main     IPC socket path: /tmp/.vbox-airamek-ipc/ipcd
+00:00:00.104294 nspr-2   VirtualBox: object creation starts
+00:00:00.104385 nspr-2   Home directory: '/home/airamek/.config/VirtualBox'
+00:00:00.104567 nspr-2   Loading settings file "/home/airamek/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.105420 nspr-2   HostDnsMonitor: initializing
+00:00:00.105520 nspr-2   NAT: resolv.conf: nameserver 192.168.33.1
+00:00:00.105531 nspr-2   NAT: resolv.conf: nameserver 2001:4c4e:12da:ff00::1
+00:00:00.105542 nspr-2   HostDnsMonitor: updating information
+00:00:00.105553 nspr-2   HostDnsMonitor: old information
+00:00:00.105557 nspr-2     no server entries
+00:00:00.105560 nspr-2     no domain set
+00:00:00.105563 nspr-2     no search string entries
+00:00:00.105567 nspr-2   HostDnsMonitor: new information
+00:00:00.105570 nspr-2     server 1: 192.168.33.1
+00:00:00.105574 nspr-2     server 2: 2001:4c4e:12da:ff00::1
+00:00:00.105577 nspr-2     domain: home
+00:00:00.105581 nspr-2     search string 1: home
+00:00:00.106631 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.106794 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.106871 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.280859 nspr-2   Loading settings file "/media/MindenMas/vms/test/test.vbox" with version "1.16-linux"
+00:00:00.388093 nspr-2   Loading settings file "/media/MindenMas/vms/Slackware 14/Slackware 14.vbox" with version "1.16-linux"
+00:00:00.388666 nspr-2   VirtualBox: object created
+00:00:00.798192 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.809185 nspr-5   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.941178 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.941643 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:30.916380 nspr-2   Launched VM: 2617621456 pid: 30839 (0x7877) frontend: GUI/Qt name: test
+00:01:30.936254 nspr-6   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:30.947562 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:30.948094 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.189976 nspr-6   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:31.196142 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.196689 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.527533 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.528029 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.528305 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:31.553708 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.553982 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:31.567635 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:36.536633 nspr-4   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:36.539271 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:36.541413 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:36.550530 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:36.550995 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:37.137591 nspr-5   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:37.153331 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:01:37.153723 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:14.265358 nspr-7   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:14.312594 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:14.313241 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:15.094922 nspr-8   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:15.104903 nspr-8   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:15.105672 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:15.119328 nspr-6   Saving settings file "/media/MindenMas/vms/test/test.vbox" with version "1.16-linux"
+00:05:15.244484 nspr-7   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:15.256811 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:15.257396 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:16.133294 nspr-8   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:16.144480 nspr-8   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:05:16.145082 nspr-8   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:49:07.797340 MainPower Host suspending: Paused 0 VMs
+00:49:15.072222 MainPower Host resumed: Resumed 0 VMs
+00:49:15.102391 dns-monitor NAT: resolv.conf: nameserver 2001:4c4e:12da:ff00::1
+00:49:15.102424 dns-monitor HostDnsMonitor: updating information
+00:49:15.102453 dns-monitor HostDnsMonitor: old information
+00:49:15.102456 dns-monitor   server 1: 192.168.33.1
+00:49:15.102459 dns-monitor   server 2: 2001:4c4e:12da:ff00::1
+00:49:15.102461 dns-monitor   domain: home
+00:49:15.102463 dns-monitor   search string 1: home
+00:49:15.102466 dns-monitor HostDnsMonitor: new information
+00:49:15.102468 dns-monitor   server 1: 2001:4c4e:12da:ff00::1
+00:49:15.102470 dns-monitor   domain: home
+00:49:15.102472 dns-monitor   search string 1: home
+00:49:15.112653 dns-monitor NAT: resolv.conf: nameserver 192.168.33.1
+00:49:15.112675 dns-monitor NAT: resolv.conf: nameserver 2001:4c4e:12d0:2800::1
+00:49:15.112687 dns-monitor HostDnsMonitor: updating information
+00:49:15.112690 dns-monitor HostDnsMonitor: old information
+00:49:15.112693 dns-monitor   server 1: 2001:4c4e:12da:ff00::1
+00:49:15.112696 dns-monitor   domain: home
+00:49:15.112698 dns-monitor   search string 1: home
+00:49:15.112701 dns-monitor HostDnsMonitor: new information
+00:49:15.112703 dns-monitor   server 1: 192.168.33.1
+00:49:15.112705 dns-monitor   server 2: 2001:4c4e:12d0:2800::1
+00:49:15.112707 dns-monitor   domain: home
+00:49:15.112709 dns-monitor   no search string entries
+00:49:17.833521 dns-monitor NAT: resolv.conf: nameserver 192.168.33.1
+00:49:17.833541 dns-monitor HostDnsMonitor: updating information
+00:49:17.833544 dns-monitor HostDnsMonitor: old information
+00:49:17.833546 dns-monitor   server 1: 192.168.33.1
+00:49:17.833548 dns-monitor   server 2: 2001:4c4e:12d0:2800::1
+00:49:17.833550 dns-monitor   domain: home
+00:49:17.833551 dns-monitor   no search string entries
+00:49:17.833553 dns-monitor HostDnsMonitor: new information
+00:49:17.833555 dns-monitor   server 1: 192.168.33.1
+00:49:17.833556 dns-monitor   domain: home
+00:49:17.833558 dns-monitor   search string 1: home
+00:49:19.118900 dns-monitor NAT: resolv.conf: nameserver 192.168.33.1
+00:49:19.118922 dns-monitor NAT: resolv.conf: nameserver 2001:4c4e:12da:ff00::1
+00:49:19.118932 dns-monitor HostDnsMonitor: updating information
+00:49:19.118935 dns-monitor HostDnsMonitor: old information
+00:49:19.118938 dns-monitor   server 1: 192.168.33.1
+00:49:19.118941 dns-monitor   domain: home
+00:49:19.118943 dns-monitor   search string 1: home
+00:49:19.118945 dns-monitor HostDnsMonitor: new information
+00:49:19.118947 dns-monitor   server 1: 192.168.33.1
+00:49:19.118949 dns-monitor   server 2: 2001:4c4e:12da:ff00::1
+00:49:19.118950 dns-monitor   domain: home
+00:49:19.118952 dns-monitor   search string 1: home
+04:13:47.518124 nspr-6   Saving settings file "/home/airamek/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+04:13:47.522165 nspr-5   Saving settings file "/home/airamek/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+04:13:53.027823 main     VirtualBox: object deletion starts
+04:13:53.027972 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/media/MindenMas/vms/Slackware 14/Slackware 14.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+04:13:53.028329 main     HostDnsMonitor: shutting down ...
+04:13:53.030040 main     HostDnsMonitor: shut down
+04:13:53.313622 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+04:13:58.030131 main     {00007f069c01fbf0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+04:13:58.030499 main     VirtualBox: object deleted

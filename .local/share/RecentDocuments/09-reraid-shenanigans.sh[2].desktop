@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=09-reraid-shenanigans.sh
+Type=Link
+URL[$e]=file:///media/MindenMas/stuff/slack/dev/runit/void-runit/core-services/09-reraid-shenanigans.sh
+X-KDE-LastOpenedWith=code-oss

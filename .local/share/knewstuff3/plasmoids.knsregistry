@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="105">
+  <name>Panel Transparency Button</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1338479</homepage>
+  <licence></licence>
+  <version>0.2.0</version>
+  <rating>79</rating>
+  <downloads>33519</downloads>
+  <installedfile>/home/airamek/.local/share/plasma/plasmoids/org.kde.paneltransparencybutton</installedfile>
+  <id>1338479</id>
+  <releasedate>2020-01-22</releasedate>
+  <summary>Plasma 5 applet that enables/disables transparency for plasma panels. Plasma 5.17.3 is required to work correctly and enable/disable panel shadows when needed.&lt;br />
+&lt;br />
+How To Use:&lt;br />
+1. Unlock your widgets and add transparency button in a plasma panel&lt;br />
+2. Activate it and your plasma...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/e/c/2/00c7953536ec34f6b9a640b6ad3d9e62e556.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/e/c/2/00c7953536ec34f6b9a640b6ad3d9e62e556.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzk2ODU3MzIiLCJvIjoiMSIsInMiOiIyNmQ4NGRmYWIzYTRjZTVlMjY2ZmYyOWJlNzAyNTBjMjczMmUxNzBmYzBjMTUyNmU0ZTU3NjcxYmJiYWYzODg1MzQwNjQ0YjdjNmU1ZTY5MzNiMDFlYWNkZTQ3MDU1NTE4MWQzNDNkYmUzMDg4YWJhNWY0NGJmNjk1NzBmNGMyOCIsInQiOjE2Mjg0ODE1MzUsInN0ZnAiOm51bGwsInN0aXAiOiI1LjM4LjE1NC4xNzUifQ.bQ0SZf0O8ZCa7_ZrrP9jY5QxBEUsW8xFmMFaImzzFVQ/paneltransparencybutton-0.2.0.plasmoid</payload>
+  <tags>button,extension,gplv2-later,kde,linux,widget,original-product,plasma,panel,plasma##majorversion=5,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

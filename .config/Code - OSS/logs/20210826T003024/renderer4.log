@@ -1,0 +1,1 @@
+[2021-08-26 00:57:22.640] [renderer4] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz/usr/bin/X11" points to "/home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz/usr/bin"

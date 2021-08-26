@@ -1,0 +1,41 @@
+[Desktop Entry]
+DefaultProfile=
+
+[General]
+Version=201
+ViewPropsTimestamp=2021,7,4,21,36,22.569
+
+[IconsMode]
+PreviewSize=48
+
+[KPropertiesDialog]
+DisplayPort-0 DisplayPort-1 Height 1280x1024=458
+DisplayPort-0 DisplayPort-1 Height 1920x1080=406
+DisplayPort-0 DisplayPort-1 Width 1280x1024=383
+DisplayPort-0 DisplayPort-1 Width 1920x1080=398
+
+[MainWindow]
+DisplayPort-0 DisplayPort-1 HDMI-A-0 Height 1280x1024=648
+DisplayPort-0 DisplayPort-1 HDMI-A-0 Width 1280x1024=511
+DisplayPort-0 DisplayPort-1 HDMI-A-0 XPosition 1280x1024=2689
+DisplayPort-0 DisplayPort-1 HDMI-A-0 XPosition 1920x1080=2687
+DisplayPort-0 DisplayPort-1 HDMI-A-0 YPosition 1280x1024=372
+DisplayPort-0 DisplayPort-1 HDMI-A-0 YPosition 1920x1080=227
+DisplayPort-0 DisplayPort-1 Height 1280x1024=724
+DisplayPort-0 DisplayPort-1 Height 1920x1080=724
+DisplayPort-0 DisplayPort-1 Width 1280x1024=1005
+DisplayPort-0 DisplayPort-1 Width 1920x1080=1005
+DisplayPort-0 DisplayPort-1 XPosition 1280x1024=0
+DisplayPort-0 DisplayPort-1 XPosition 1920x1080=1384
+DisplayPort-0 DisplayPort-1 YPosition 1280x1024=0
+DisplayPort-0 DisplayPort-1 YPosition 1920x1080=124
+DisplayPort-0 XPosition 1920x1080=54
+DisplayPort-0 YPosition 1920x1080=179
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAB5/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAB5wAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAD7QAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAD7QAAAJEBAAADAAADNAAAAecAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=code,vl,mpl,ar,ark

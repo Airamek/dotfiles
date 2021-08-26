@@ -1,0 +1,31 @@
+(N) 2021-08-24T02:04:42 - qBittorrent v4.3.7 started
+(N) 2021-08-24T02:04:42 - Using config directory: /home/airamek/.config/qBittorrent/
+(I) 2021-08-24T02:04:44 - Trying to listen on: 0.0.0.0:9540,[::]:9540
+(N) 2021-08-24T02:04:44 - Peer ID: -qB4370-
+(N) 2021-08-24T02:04:44 - HTTP User-Agent is 'qBittorrent/4.3.7'
+(I) 2021-08-24T02:04:44 - DHT support [ON]
+(I) 2021-08-24T02:04:44 - Local Peer Discovery support [ON]
+(I) 2021-08-24T02:04:44 - PeX support [ON]
+(I) 2021-08-24T02:04:44 - Anonymous mode [OFF]
+(I) 2021-08-24T02:04:44 - Encryption support [ON]
+(I) 2021-08-24T02:04:44 - UPnP / NAT-PMP support [ON]
+(W) 2021-08-24T02:04:44 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2021-08-24T02:04:44 - Options were saved successfully.
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: 127.0.0.1, port: TCP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: 127.0.0.1, port: UDP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: 192.168.33.11, port: TCP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: 192.168.33.11, port: UDP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: ::1, port: TCP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: ::1, port: UDP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: 2001:4c4e:12d7:8700:15b9:2d6d:9321:2e8a, port: TCP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: 2001:4c4e:12d7:8700:15b9:2d6d:9321:2e8a, port: UDP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: fe80::7161:b77:bb3d:b8f6%enp6s0, port: TCP/9540
+(I) 2021-08-24T02:04:44 - Successfully listening on IP: fe80::7161:b77:bb3d:b8f6%enp6s0, port: UDP/9540
+(I) 2021-08-24T02:04:44 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/9540
+(I) 2021-08-24T02:04:44 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/9540
+(I) 2021-08-24T02:04:44 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/9540
+(I) 2021-08-24T02:04:44 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/9540
+(I) 2021-08-24T02:04:45 - Detected external IP: 2001:4c4e:12d7:8700:15b9:2d6d:9321:2e8a
+(I) 2021-08-24T02:04:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: V aug. 1 02:15:10 2021.
+(I) 2021-08-24T02:04:45 - Successfully updated IP geolocation database.
+(I) 2021-08-24T02:35:46 - UPnP / NAT-PMP support [OFF]

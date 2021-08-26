@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Sweet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1253385</homepage>
+  <licence></licence>
+  <version>1.10.5</version>
+  <rating>91</rating>
+  <downloads>16011</downloads>
+  <installedfile>/home/airamek/.themes/Sweet-Dark/*</installedfile>
+  <id>1253385</id>
+  <releasedate>2021-06-29</releasedate>
+  <summary>Colorful Gtk3.20+ themes&lt;br />
+&lt;br />
+&lt;strong>Installation:&lt;/strong>&lt;br />
+&lt;br />
+1.- Extract the zip file to the themes directory i.e.   ~/.themes/  or  /usr/share/themes/ (create it  if necessary).&lt;br />
+&lt;br />
+2.- To set the theme in Gnome, run the following commands in Terminal.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/2/4/f/b1dee64b32c7a7f9e4f17eafe457688131c8.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/2/4/f/b1dee64b32c7a7f9e4f17eafe457688131c8.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjI2NjA1OTkiLCJvIjoiMSIsInMiOiI0NzJiYWY2MmViMTc5ZTZmMzI0ZGFjYzY4N2U1NTViNTU5N2ZkNjBlNWU0NzBjMmJkOWUwNTBlOTQyOGUyNzViYjM5MGE5YTYyYTIwMGJlMTE3ZTUyOGIzZTZhZWZjMGU1OTA1NzUyMjA1NjNmNTNhMTYyOGY2YzkwY2RiZjc3NiIsInQiOjE2MjU1ODM4MjIsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.5_O9UM0OER5G_lEKsgSBgps5iWlFJOSoZb-UFY5-zHI/Sweet-Dark.tar.xz</payload>
+  <tags>unix,original-product,theme,gplv3,gnome,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
