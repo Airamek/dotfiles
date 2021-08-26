@@ -3,16 +3,337 @@
     "openedPathsList": {
         "entries": [
             {
-                "fileUri": "file:///home/airamek/stuff/svgs2ttf/metadata.txt"
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services"
             },
             {
-                "fileUri": "file:///home/airamek/.config/polybar/config"
+                "folderUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz"
             },
             {
-                "fileUri": "file:///home/airamek/.config/openbox/autostart"
+                "folderUri": "file:///media/MindenMas/stuff/slack/ReRAID"
             },
             {
-                "fileUri": "file:///home/airamek/.config/openbox/menu.xml"
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid"
+            },
+            {
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager"
+            },
+            {
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-noarch-reraid"
+            },
+            {
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid"
+            },
+            {
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/runit/void-runit"
+            },
+            {
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid"
+            },
+            {
+                "folderUri": "file:///home/airamek/Downloads/haveged/SBo-32bit/package-haveged"
+            },
+            {
+                "folderUri": "file:///media/MindenMas/stuff/slack/dev/etc/etc-14.2-i586-7"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/09-reraid-shenanigans.sh"
+            },
+            {
+                "fileUri": "file:///run/media/airamek/RERAID/config/ident.cfg"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/etc/sv/acpid/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/05-misc.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/log/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/void-runit/core-services/09-reraid-shenanigans.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/finish"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp-4.2.8p8-i586-1/etc/rc.d/rc.ntpd.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-noarch-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-1.9.14-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-1.9.14-i586-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged/haveged.SlackBuild"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid/etc/sv/NetworkManager/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/etc/sv/acpid/log/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/Let%C3%B6lt%C3%A9sek/slackware-14.2-iso/slackware-14.2-install-dvd/slackware/l/icu4c-56.1-i586-2.txt"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager-1.2.2-i586-2/etc/NetworkManager/NetworkManager.conf.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager-1.2.2-i586-2/etc/NetworkManager/conf.d/00-dhcp-client.conf.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager-1.2.2-i586-2/etc/NetworkManager/conf.d/00-rc-manager.conf.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager-1.2.2-i586-2/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/config/ident.cfg"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/etc/sv/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/udev/eudev_runit-3.1.5-noarch-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/udev/eudev_runit-3.1.5-noarch-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus_runit-1.10.8-noarch-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus_runit-1.10.8-noarch-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus_runit-1.10.8-i586-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus_runit-1.10.8-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus_runit-1.10.8-i586-reraid/etc/sv/dbus/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-i586-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/create-packages.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/sv/wsdd/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/wsdd/wsdd2/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/wsdd/wsdd2-1.8.3.2/README.md"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/wsdd/wsdd2-1.8.3.2/Makefile"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/sv/winbindd/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/sv/nmbd/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/sv/smbd/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/Let%C3%B6lt%C3%A9sek/slackware-14.2-iso/slackware-14.2-install-dvd/slackware/l/libffi-3.2.1-i486-1.txt"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/Let%C3%B6lt%C3%A9sek/slackware-14.2-iso/slackware-14.2-install-dvd/slackware/l/gamin-0.1.10-i486-5.txt"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/syslinux/syslinux.cfg"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/Let%C3%B6lt%C3%A9sek/slackware-14.2-iso/slackware-14.2-install-dvd/slackware/n/cyrus-sasl-2.1.26-i586-1.txt"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/samba/smb.conf"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/samba/smb.conf-sample"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/etc/etc-14.2-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/etc/etc-14.2-i586-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit-2.1.2-i486-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/Media/Anime/Steins.Gate.S01.REPACK.BDRIP.x264-Krissz/Steins.Gate.S01.REPACK.BDRIP.x264-Krissz.nfo"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/sv/samba/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid/etc/rc.d/rc.samba.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/udev/eudev-3.1.5-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus-1.10.8-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/udev/eudev-3.1.5-i586-8/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/udev/eudev-3.1.5-i586-8/etc/sv/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/udev/eudev-3.1.5-i586-8/etc/rc.d/rc.udev.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus-1.10.8-i586-reraid/etc/sv/dbus/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus-1.10.8-i586-reraid/etc/sv/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/dbus/dbus-1.10.8-i586-reraid/etc/rc.d/rc.messagebus.new"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.14-i586-reraid/etc/sv/haveged/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-git/init.d/sysv.redhat"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-git/init.d/sysv.lsb"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-git/init.d/service.suse"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-git/init.d/haveged"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-git/init.d/service.fedora"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/haveged-git/init.d/service.forking"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/03-filesystems.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/3"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/tmp/etc/init.d/haveged"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid/etc/sv/haveged/run"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2/init.d/service.redhat"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2/init.d/sysv.lsb"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/aaa_base/aaa_base-14.2-i586-reraid/etc/os-release"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2/init.d/service.forking"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2/init.d/service.suse"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2/init.d/service.fedora"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid/install/slack-desc"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.1-i486-reraid/install/doinst.sh"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/haveged/SBo/package-haveged/etc/rc.d/rc.haveged.new"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/haveged-1.9.2/Makefile"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/config/docker.cfg"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/ReRAID/reraid_essentials/config/passwd"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/config/ident.cfg"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/license.txt"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/config/go"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/config/domain.cfg"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz/etc/rc.d/rc.S"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz/etc/passwd"
+            },
+            {
+                "fileUri": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/config/plugins/dockerMan/template-repos"
+            },
+            {
+                "fileUri": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.1-i486-reraid/etc/sv/agetty-hvc0/run"
             }
         ]
     },
@@ -44,7 +365,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.29",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -57,48 +378,227 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "openRecentFile",
+                                    "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/airamek/stuff/svgs2ttf/metadata.txt",
-                                        "path": "/home/airamek/stuff/svgs2ttf/metadata.txt",
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services",
+                                        "path": "/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/stuff/svgs2ttf/metadata.txt"
+                                    "label": "/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz",
+                                        "path": "/home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/ReRAID",
+                                        "path": "/media/MindenMas/stuff/slack/ReRAID",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/ReRAID"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid",
+                                        "path": "/media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/networkmanager/NetworkManager_runit-1.0-noarch-reraid"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/networkmanager",
+                                        "path": "/media/MindenMas/stuff/slack/dev/networkmanager",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/networkmanager"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-noarch-reraid",
+                                        "path": "/media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-noarch-reraid",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/samba/samba_runit-1.0-noarch-reraid"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid",
+                                        "path": "/media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/samba/samba-4.4.4-i586-reraid"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/runit/void-runit",
+                                        "path": "/media/MindenMas/stuff/slack/dev/runit/void-runit",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/runit/void-runit"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid",
+                                        "path": "/media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/haveged/SBo-32bit/haveged-1.9.2-i586-reraid"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/airamek/Downloads/haveged/SBo-32bit/package-haveged",
+                                        "path": "/home/airamek/Downloads/haveged/SBo-32bit/package-haveged",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/haveged/SBo-32bit/package-haveged"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/airamek/.config/polybar/config",
-                                        "path": "/home/airamek/.config/polybar/config",
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/09-reraid-shenanigans.sh",
+                                        "path": "/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/09-reraid-shenanigans.sh",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/config"
+                                    "label": "/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/09-reraid-shenanigans.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/airamek/.config/openbox/autostart",
-                                        "path": "/home/airamek/.config/openbox/autostart",
+                                        "external": "file:///run/media/airamek/RERAID/config/ident.cfg",
+                                        "path": "/run/media/airamek/RERAID/config/ident.cfg",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/openbox/autostart"
+                                    "label": "/run/media/airamek/RERAID/config/ident.cfg"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/airamek/.config/openbox/menu.xml",
-                                        "path": "/home/airamek/.config/openbox/menu.xml",
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/etc/sv/acpid/run",
+                                        "path": "/media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/etc/sv/acpid/run",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/openbox/menu.xml"
+                                    "label": "/media/MindenMas/stuff/slack/dev/acpid/acpid_runit-1.0-noarch-reraid/etc/sv/acpid/run"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/05-misc.sh",
+                                        "path": "/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/05-misc.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/runit/runit_scripts-0.2-i486-reraid/etc/runit/core-services/05-misc.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/log/run",
+                                        "path": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/log/run",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/log/run"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/run",
+                                        "path": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/run",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/ntpd/run"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/runit/void-runit/core-services/09-reraid-shenanigans.sh",
+                                        "path": "/media/MindenMas/stuff/slack/dev/runit/void-runit/core-services/09-reraid-shenanigans.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/runit/void-runit/core-services/09-reraid-shenanigans.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/doinst.sh",
+                                        "path": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/doinst.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/doinst.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/slack-desc",
+                                        "path": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/slack-desc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/install/slack-desc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/finish",
+                                        "path": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/finish",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/MindenMas/stuff/slack/dev/ntpd/ntp_runit-1.0-noarch-reraid/etc/sv/finish"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -129,6 +629,10 @@
                         "label": "Save Workspace As..."
                     },
                     {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Duplicate Workspace"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -152,7 +656,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.28",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -163,6 +667,10 @@
                                 {
                                     "id": "settings.filterByOnline",
                                     "label": "&&Online Services Settings"
+                                },
+                                {
+                                    "id": "settings.filterByTelemetry",
+                                    "label": "Telemetry Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -388,7 +896,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.17",
+                        "id": "submenuitem.19",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -427,13 +935,13 @@
                                     "checked": true
                                 },
                                 {
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel"
+                                },
+                                {
                                     "id": "workbench.action.toggleEditorVisibility",
                                     "label": "Show &&Editor Area",
                                     "checked": true
-                                },
-                                {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -469,7 +977,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.26",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -581,7 +1089,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap"
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -617,14 +1125,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.31",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -673,7 +1180,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.30",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -880,7 +1387,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.27",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -991,12 +1498,8 @@
             "Help": {
                 "items": [
                     {
-                        "id": "workbench.action.showWelcomePage",
-                        "label": "&&Welcome"
-                    },
-                    {
-                        "id": "workbench.action.showGettingStarted",
-                        "label": "Getting Started"
+                        "id": "workbench.action.openWalkthrough",
+                        "label": "Welcome"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1005,21 +1508,6 @@
                     {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Documentation"
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.action.keybindingsReference",
-                        "label": "&&Keyboard Shortcuts Reference"
-                    },
-                    {
-                        "id": "workbench.action.openIntroductoryVideosUrl",
-                        "label": "Introductory &&Videos"
-                    },
-                    {
-                        "id": "workbench.action.openTipsAndTricksUrl",
-                        "label": "Tips and Tri&&cks"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1128,8 +1616,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1273,6 +1761,10 @@
             "workbench.view.explorer": {
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
+            },
+            "workbench.view.search": {
+                "label": "Ctrl+Shift+F",
+                "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G",
@@ -1464,11 +1956,6 @@
                 "label": "Ctrl+Shift+B",
                 "userSettingsLabel": "ctrl+shift+b"
             },
-            "workbench.action.keybindingsReference": {
-                "label": "Ctrl+K Ctrl+R",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+r"
-            },
             "workbench.action.toggleDevTools": {
                 "label": "Ctrl+Shift+I",
                 "userSettingsLabel": "ctrl+shift+i"
@@ -1479,16 +1966,91 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/airamek/.config/Code - OSS/Backups/1624401303512",
+            "backupPath": "/home/airamek/.config/Code - OSS/Backups/1629939016284",
             "uiState": {
                 "mode": 1,
-                "x": 500,
-                "y": 20,
-                "width": 885,
-                "height": 849
+                "x": 1732,
+                "y": 184,
+                "width": 1024,
+                "height": 768
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///media/MindenMas/stuff/slack/ReRAID",
+                "backupPath": "/home/airamek/.config/Code - OSS/Backups/bbf487c5cea3119b6e89d48a81165df6",
+                "uiState": {
+                    "mode": 1,
+                    "x": 12,
+                    "y": 56,
+                    "width": 1208,
+                    "height": 992
+                }
+            },
+            {
+                "folder": "file:///home/airamek/Downloads/unRAIDServer-6.9.2-x86_64/bzrootExtract/bzrootxz",
+                "backupPath": "/home/airamek/.config/Code - OSS/Backups/def2172152d238a655f339911f2c9958",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1448,
+                    "y": 127,
+                    "width": 1386,
+                    "height": 768
+                }
+            },
+            {
+                "backupPath": "/home/airamek/.config/Code - OSS/Backups/1629938273588",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1732,
+                    "y": 184,
+                    "width": 1024,
+                    "height": 768
+                }
+            },
+            {
+                "backupPath": "/home/airamek/.config/Code - OSS/Backups/1629938972114",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1732,
+                    "y": 184,
+                    "width": 1024,
+                    "height": 768
+                }
+            },
+            {
+                "backupPath": "/home/airamek/.config/Code - OSS/Backups/1629939016284",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1732,
+                    "y": 184,
+                    "width": 1024,
+                    "height": 768
+                }
+            }
+        ]
     },
-    "pickerWorkingDir": "/home/airamek/stuff/svgs2ttf"
+    "pickerWorkingDir": "/media/MindenMas/stuff/slack/dev",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
 }

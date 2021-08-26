@@ -4,5 +4,4 @@
 # to run user-specific things.
 
 picom &
-feh --bg-fill stuff/bg/hiyori-wallpaper-black.png &
-lxpanel &
+start-pulseaudio-x11 &

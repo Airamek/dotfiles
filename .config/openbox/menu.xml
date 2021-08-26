@@ -11,6 +11,11 @@
       <command>termite</command>
     </action>
   </item>
+  <item label="Kitty">
+    <action name="Execute">
+      <command>kitty</command>
+    </action>
+  </item>
   <item label="Firefox">
     <action name="Execute">
       <command>firefox</command>
