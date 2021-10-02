@@ -1,0 +1,37 @@
+{
+  "updates": {
+    "netplan.io": {
+      "type": "package",
+      "since": "2021.10.02",
+      "days": 1
+    },
+    "linux-meta": {
+      "type": "kernel",
+      "since": "2021.10.02",
+      "days": 1
+    },
+    "vim": {
+      "type": "security",
+      "since": "2021.10.02",
+      "days": 1
+    },
+    "mesa": {
+      "type": "package",
+      "since": "2021.10.02",
+      "days": 1
+    },
+    "mysql-8.0": {
+      "type": "package",
+      "since": "2021.10.02",
+      "days": 1
+    },
+    "linux-firmware": {
+      "type": "package",
+      "since": "2021.10.02",
+      "days": 1
+    }
+  },
+  "version": 1,
+  "checked": "2021.10.02",
+  "notified": "2021.09.25"
+}
